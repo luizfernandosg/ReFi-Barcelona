@@ -1,4 +1,4 @@
-# Local Node Offerings
+# ReFi BCN Offerings
 Tags: #LocalCommerce #RegenerativeProducts #CommunityServices #EconomicEmpowerment
 
 Summary:

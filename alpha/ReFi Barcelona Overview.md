@@ -1,4 +1,3 @@
-# ReFi Barcelona Overview
 Tags: #ReFiBarcelona #RegenerativeFinance #LocalNode #Sustainability #Blockchain #Community
 
 

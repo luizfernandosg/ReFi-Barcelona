@@ -1,4 +1,4 @@
-# Funding and Revenue for ReFi Barcelona
+# Funding and revenue for ReFi BCN
 Tags: #FinancialSustainability #FundraisingMechanisms #GrantsAndPartnerships #CommunityInvestment
 
 Summary:

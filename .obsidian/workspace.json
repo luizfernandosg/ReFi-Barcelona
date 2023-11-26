@@ -13,19 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "alpha/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4f59f2ac3261281",
+            "id": "1321d078b3e33328",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "230825b ReFi BCN Knowledge base.canvas",
+                "viewState": {
+                  "x": 11595.79727635175,
+                  "y": -7784.634284370661,
+                  "zoom": -0.6708771610260041
+                }
               }
             }
           }
@@ -59,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ReFi-aligned",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a1108928ecc1b9d6",
@@ -96,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "230825b ReFi BCN Knowledge base.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "230825b ReFi BCN Knowledge base.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "230825b ReFi BCN Knowledge base.canvas"
               }
             }
           }
@@ -158,8 +163,46 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c4f59f2ac3261281",
+  "active": "1321d078b3e33328",
   "lastOpenFiles": [
-    "PFP 3_ Warm (1).png"
+    "State of the ReFi Ecosystem.md",
+    "Beta/State of the ReFi Ecosystem.md",
+    "230825b ReFi BCN Knowledge base.canvas",
+    "Beta/Contextualization of ReFi BCN.md",
+    "Barcelona.md",
+    "alpha/Mas Les Vinyes.md",
+    "alpha/AKASHA Hub.md",
+    "alpha/Building Bridges.md",
+    "alpha/Challenges and Opportunities in the ReFi Ecosystem.md",
+    "alpha/Commons.md",
+    "alpha/Coop 57.md",
+    "alpha/Cooperatives and DAOs.md",
+    "alpha/Cooperatives and ReFi.md",
+    "alpha/Ecosystem research & mapping.md",
+    "favicon-32x32.png",
+    "alpha/Funding and revenue for ReFi BCN.md",
+    "PFP 3_ Warm (1).png",
+    "alpha/Regeneration.md",
+    "Beta/Barcelona.md",
+    "Beta",
+    "Beta/ReFi-aligned landscape of Barcelona.md",
+    "ReFi-aligned Landscape of Barcelona.md",
+    "ReFi DAO.md",
+    "Beta/ReFi DAO.md",
+    "ReFi Barcelona.md",
+    "Beta/ReFi Barcelona.md",
+    "ReFi BCN Interfaces.md",
+    "Beta/ReFi BCN interfaces.md",
+    "Take up a Role in ReFi BCN.md",
+    "Host an Event or Meetup.md",
+    "staging",
+    "publish.css",
+    "alpha",
+    "Updated Obsidian Publish.css",
+    "Enhanced Obsidian Publish.css",
+    "Obsidian Navy Blue Theme.css",
+    "updated_theme.css",
+    "Input",
+    "modified_publish.css"
   ]
 }

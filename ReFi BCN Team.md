@@ -1,39 +1,65 @@
 # ReFi BCN Team
-Tags: #ReFiFounders #LeadershipTeam #Visionaries #RegenerativeFinancePioneers
+Tags: #ReFiBCN #Team
 
-Summary:
-Meet the visionaries behind ReFi Barcelona, the founders who lead the charge in redefining finance for positive global impact.
+- [[Take up a Role in ReFi BCN]]
 
-Main Content:
+The ReFi Barcelona (ReFi BCN) team comprises individuals dedicated to advancing the regenerative finance movement in Barcelona. This document highlights the team's composition and their roles in the initiative.
 
-Founders' Background
+## Team Composition
 
-Profiles each founder, highlighting their expertise, background, and contributions to the fields of finance, technology, and sustainability.
-Discusses the shared vision that brought the founders together to establish ReFi Barcelona.
-Vision and Mission
+### Lead Applicant: Luiz Fernando
 
-Outlines the vision and mission of ReFi Barcelona as envisioned by its founders.
-Explores the unique perspectives and values that drive the founders' commitment to regenerative finance.
-Leadership Principles
+- Background: [Personal info]
+- Role: Spearheads the ReFi BCN initiative, coordinating activities and strategic planning.
 
-Explores the leadership principles embraced by the founders, emphasizing transparency, inclusivity, and sustainability.
-Highlights how these principles are embedded in the operations and initiatives of ReFi Barcelona.
-Impactful Initiatives Led by Founders
+### Founder 1: Justina
 
-Showcases specific projects and initiatives spearheaded by each founder, emphasizing their impact on the local and global regenerative finance landscape.
-Relevant Links:
+- Background: [Personal info]
+- Contribution: Focuses on community engagement and project development within ReFi BCN.
 
-ReFi BCN Knowledge Base
-Funding and Revenue for ReFi Barcelona
-Ecosystem Mapping
-Gallery/Images:
+### Founder 2: Emanuel
 
-Portraits and brief bios of each ReFi Barcelona founder.
-Visual representations of the founders' collective impact.
-References:
+- Background: [Personal info]
+- Expertise: Brings technological insights and blockchain expertise to the team.
 
-Interview with ReFi Founders
-Founders' Insights on Regenerative Finance
-External Links:
+### Founder 3: Roger
 
-ReFi Barcelona Founders
+- Background: [Personal info]
+- Responsibilities: Handles partnerships and collaboration with local entities and ReFi-aligned projects.
+
+### Founder 4: Emília
+
+- Background: [Personal info]
+- Role: Oversees financial strategies and funding opportunities for ReFi BCN.
+
+## Team's Collective Experience
+
+### Capital Raised
+
+- Fundraising Experience: The team has experience in raising capital within the $0-$100k range, demonstrating capability in resource mobilization.
+
+### Event Organization
+
+- Community Events: Successfully organized events like the ReFi Barcelona Kick-Off, enhancing community involvement and awareness.
+
+### Network Strength
+
+- Connections: Strong local connections with ReFi and web3 projects, cooperative movements, and academic institutions like Impact Hub Barcelona and Elisava University.
+
+## Team's Vision
+
+- The ReFi BCN team is committed to building a sustainable and regenerative financial ecosystem in Barcelona.
+- They aim to integrate local initiatives with global ReFi movements, leveraging Barcelona's unique position in the tech and startup community.
+
+## Conclusion
+
+The diverse backgrounds and expertise of the ReFi BCN team form the backbone of the initiative, driving forward its mission to embed regenerative principles in Barcelona's financial and social fabric.
+
+---
+
+*This markdown file is part of the ReFi Barcelona knowledge base, showcasing the team behind the ReFi BCN initiative.*
+
+---
+
+[[Vision for ReFi BCN]] | [[Contextualization of ReFi BCN]] | [[ReFi BCN Knowledge Base]] | [[Become a Member of ReFi BCN]]
+
