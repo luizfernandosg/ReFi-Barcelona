@@ -27,9 +27,9 @@
               "state": {
                 "file": "230825b ReFi BCN Knowledge base.canvas",
                 "viewState": {
-                  "x": 11595.79727635175,
-                  "y": -7784.634284370661,
-                  "zoom": -0.6708771610260041
+                  "x": 3950.842527733215,
+                  "y": 444.84319041807737,
+                  "zoom": -3.3635123174916997
                 }
               }
             }
@@ -165,11 +165,15 @@
   },
   "active": "1321d078b3e33328",
   "lastOpenFiles": [
+    "publish.js",
+    "Ecosystem mapping.md",
+    "Benvingudes.md",
+    "230825b ReFi BCN Knowledge base.canvas",
+    "Beta/Contextualization of ReFi BCN.md",
+    "Cooperative landscape of Barcelona and Catalonia.md",
     "README.md",
     "State of the ReFi Ecosystem.md",
     "Beta/State of the ReFi Ecosystem.md",
-    "230825b ReFi BCN Knowledge base.canvas",
-    "Beta/Contextualization of ReFi BCN.md",
     "Barcelona.md",
     "alpha/Mas Les Vinyes.md",
     "alpha/AKASHA Hub.md",
@@ -191,10 +195,6 @@
     "ReFi DAO.md",
     "Beta/ReFi DAO.md",
     "ReFi Barcelona.md",
-    "Beta/ReFi Barcelona.md",
-    "ReFi BCN Interfaces.md",
-    "Beta/ReFi BCN interfaces.md",
-    "Take up a Role in ReFi BCN.md",
     "staging",
     "publish.css",
     "alpha",

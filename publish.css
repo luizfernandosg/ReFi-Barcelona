@@ -36,3 +36,22 @@
 }
 
 /* Additional styling can be added here */
+
+/* Add links to the top bar */
+.top-bar-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.top-bar-link {
+  margin-left: 20px;
+  text-decoration: none;
+  color: var(--text-normal);
+  font-weight: var(--font-medium);
+}
+
+.top-bar-link:hover {
+  text-decoration: underline;
+}
