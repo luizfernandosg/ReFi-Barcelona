@@ -23,14 +23,11 @@
             "id": "1321d078b3e33328",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "230825b ReFi BCN Knowledge base.canvas",
-                "viewState": {
-                  "x": 5403.857934151599,
-                  "y": -2811.343928794883,
-                  "zoom": -1.9715413524738306
-                }
+                "file": "ReFi Barcelona.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230825b ReFi BCN Knowledge base.canvas",
+                "file": "ReFi Barcelona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "230825b ReFi BCN Knowledge base.canvas",
+                "file": "ReFi Barcelona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "230825b ReFi BCN Knowledge base.canvas"
+                "file": "ReFi Barcelona.md"
               }
             }
           }
@@ -165,10 +162,10 @@
   },
   "active": "1321d078b3e33328",
   "lastOpenFiles": [
+    "230825b ReFi BCN Knowledge base.canvas",
     "publish.js",
     "Ecosystem mapping.md",
     "Benvingudes.md",
-    "230825b ReFi BCN Knowledge base.canvas",
     "Beta/Contextualization of ReFi BCN.md",
     "Cooperative landscape of Barcelona and Catalonia.md",
     "README.md",
@@ -202,7 +199,6 @@
     "Enhanced Obsidian Publish.css",
     "Obsidian Navy Blue Theme.css",
     "updated_theme.css",
-    "Input",
-    "modified_publish.css"
+    "Input"
   ]
 }

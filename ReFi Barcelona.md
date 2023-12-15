@@ -1,3 +1,14 @@
+---
+UUID: 97a278ff-37e2-4aec-9208-618de3da7484
+Name: ReFi Barcelona
+Description: 
+tags: 
+URLs: 
+longitude: 
+latitude: 
+image: 
+header_image:
+---
 # Benvingudes a ReFi Barcelona 🌱
 Tags: #ReFiBCN #ReFiDAO #Barcelona 
 
