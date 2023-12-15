@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&display=swap');
 
 /* Graph view white elements and text */
 .graph-view {
@@ -6,14 +6,14 @@
     --graph-node: #ffffff; /* White nodes */
     --graph-node-focused: #ffffff; /* White focused nodes */
     --graph-line: #ffffff; /* White lines */
-  }
+}
 
 /* Main background and text colors */
 .theme-dark,
 .theme-light {
-  --background-primary: #002147; /* Navy Blue */
-  --background-secondary: #0A3049; /* Slightly lighter Navy Blue */
-  --background-tertiary: #123A5A; /* Even lighter Navy Blue */
+  --background-primary: #002147; /* Original Navy Blue */
+  --background-secondary: #0A3049; /* Original Slightly lighter Navy Blue */
+  --background-tertiary: #123A5A; /* Original Even lighter Navy Blue */
   --background-modifier-border: rgba(255, 255, 255, 0.15); /* Border color */
   --text-normal: #E1E1E6; /* Light gray for normal text */
   --text-muted: #a8a8b3; /* Muted text */
@@ -26,13 +26,19 @@
 .theme-dark h1,
 .theme-light h1 {
   color: var(--text-bright); /* Bright headers */
-  font-weight: bold;
+  font-family: 'Bodoni Moda', serif; /* Bodoni Moda for headers */
+  font-style: italic; /* Italic style */
+  font-size: 2.5em; /* Larger font size for h1 */
+  font-weight: normal; /* Thinner font weight */
 }
 
 .theme-dark h2,
 .theme-light h2 {
   color: var(--text-normal); /* Slightly muted headers */
-  font-weight: bold;
+  font-family: 'Bodoni Moda', serif; /* Bodoni Moda for headers */
+  font-style: italic; /* Italic style */
+  font-size: 2em; /* Larger font size for h2 */
+  font-weight: normal; /* Thinner font weight */
 }
 
 /* Additional styling can be added here */
