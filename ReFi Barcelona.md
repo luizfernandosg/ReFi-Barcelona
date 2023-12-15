@@ -1,13 +1,17 @@
 ---
 UUID: 97a278ff-37e2-4aec-9208-618de3da7484
 Name: ReFi Barcelona
-Description: 
+Description: ReFi Barcelona (ReFi BCN) is an initiative aimed at integrating regenerative finance principles within the unique context of Barcelona.
 tags: 
 URLs: 
-longitude: 
-latitude: 
-image: 
-header_image:
+  - name: telegram
+    url: https://t.me/xyz
+  - name: twitter
+    url: https://twitter.com/ReFiBarcelona
+longitude: 2.174606323242188
+latitude: 41.38324879874266
+image: https://xyz.com/qwerz.png
+header_image: https://xyz.com/asdf.jpg
 ---
 # Benvingudes a ReFi Barcelona 🌱
 Tags: #ReFiBCN #ReFiDAO #Barcelona 
