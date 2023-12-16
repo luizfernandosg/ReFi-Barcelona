@@ -15,8 +15,8 @@ URLs:
     url: https://twitter.com/ReFiBarcelona
 longitude: 2.174606323242188
 latitude: 41.38324879874266
-image: https://xyz.com/qwerz.png
-header_image: https://xyz.com/asdf.jpg
+image: https://pbs.twimg.com/profile_images/1678406999510269958/DFoyNrzy_400x400.jpg
+header_image: https://pbs.twimg.com/profile_banners/1672239059626762240/1690210870/1500x500
 ---
 # Benvingudes a ReFi Barcelona 🌱
 Tags: #ReFiBCN #ReFiDAO #Barcelona 
