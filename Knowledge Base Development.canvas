@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"51e42a7df1816f54","x":-87,"y":403,"width":400,"height":400,"type":"file","file":"Cooperative landscape of Barcelona and Catalonia.md"},
+		{"id":"95f13f012e7eb591","x":-402,"y":-147,"width":400,"height":400,"type":"file","file":"Hypotheses for ReFi BCN.md"},
+		{"id":"aa75ec86e017f60c","x":60,"y":-147,"width":400,"height":400,"type":"file","file":"Host an Event or Meetup.md"},
+		{"id":"b06ee0d4a01920b8","x":520,"y":-147,"width":400,"height":400,"type":"file","file":"Guiding Principles.md"},
+		{"id":"eddcb1271ab63884","x":980,"y":-147,"width":400,"height":400,"type":"file","file":"Ecosystem mapping.md"}
+	],
+	"edges":[]
+}

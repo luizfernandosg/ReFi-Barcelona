@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReFi Barcelona.md",
+                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReFi Barcelona.md",
+                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReFi Barcelona.md",
+                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReFi Barcelona.md"
+                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md"
               }
             }
           }
@@ -162,36 +162,38 @@
   },
   "active": "1321d078b3e33328",
   "lastOpenFiles": [
+    "Input/input - Others.md",
+    "Input/input - Notes.md",
+    "Input/input - Local nodes incubator application.md",
+    "Input/input - Introduction to ReFi BCN.md",
+    "Input/input - Event description.md",
     "230825b ReFi BCN Knowledge base.canvas",
+    "Knowledge Base Development.canvas",
+    "Hypotheses for ReFi BCN.md",
+    "PFP 3_ Warm (1).png",
+    "Barcelona.md",
+    "Host an Event or Meetup.md",
+    "Knowledge Base Development.canvas.md",
+    "Beta/Notable examples of ReFi projects.md",
+    "Beta/Hypotheses for ReFi BCN.md",
+    "Beta/Guiding principles.md",
+    "Beta/Contextualization of ReFi BCN.md",
+    "Beta/Become a member of ReFi BCN.md",
+    "Beta/Barcelona.md",
+    "alpha/AKASHA Hub.md",
+    "ReFi Barcelona.md",
     "publish.js",
     "Ecosystem mapping.md",
     "Benvingudes.md",
-    "Beta/Contextualization of ReFi BCN.md",
     "Cooperative landscape of Barcelona and Catalonia.md",
     "README.md",
     "State of the ReFi Ecosystem.md",
     "Beta/State of the ReFi Ecosystem.md",
-    "Barcelona.md",
     "alpha/Mas Les Vinyes.md",
-    "alpha/AKASHA Hub.md",
     "alpha/Building Bridges.md",
     "alpha/Challenges and Opportunities in the ReFi Ecosystem.md",
-    "alpha/Commons.md",
-    "alpha/Coop 57.md",
-    "alpha/Cooperatives and DAOs.md",
-    "alpha/Cooperatives and ReFi.md",
-    "alpha/Ecosystem research & mapping.md",
     "favicon-32x32.png",
-    "alpha/Funding and revenue for ReFi BCN.md",
-    "PFP 3_ Warm (1).png",
-    "alpha/Regeneration.md",
-    "Beta/Barcelona.md",
     "Beta",
-    "Beta/ReFi-aligned landscape of Barcelona.md",
-    "ReFi-aligned Landscape of Barcelona.md",
-    "ReFi DAO.md",
-    "Beta/ReFi DAO.md",
-    "ReFi Barcelona.md",
     "staging",
     "publish.css",
     "alpha",
