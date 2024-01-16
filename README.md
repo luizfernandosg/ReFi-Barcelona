@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # ReFi-Barcelona
 
 This repository is representing the knowledge base of ReFi Barcelona. It is a collection of files containing markdown and metadata.

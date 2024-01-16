@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # Guiding principles
 Tags: #ReFiBCN #Principles
 

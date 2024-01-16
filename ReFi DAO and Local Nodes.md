@@ -3,6 +3,6 @@ status:
   - to-be-reviewed
   - live
 ---
-# ReFi BCN Knowledge Base - WIP
+# ReFi DAO and Local Nodes - WIP
 
 Page under construction 🚧 👷 🏗️.

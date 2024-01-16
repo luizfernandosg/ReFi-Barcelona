@@ -1,3 +1,9 @@
+---
+tags: 
+status:
+  - to-be-reviewed
+  - live
+---
 # Become a member of ReFi BCN
 
 - [[ReFi BCN Team]]

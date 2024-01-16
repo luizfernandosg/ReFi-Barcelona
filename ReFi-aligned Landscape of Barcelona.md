@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # ReFi-aligned landscape of Barcelona
 #Barcelona #ReFi-aligned
 

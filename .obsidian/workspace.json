@@ -6,16 +6,20 @@
       {
         "id": "e093af080f08a678",
         "type": "tabs",
+        "dimension": 64.24936386768448,
         "children": [
           {
-            "id": "8c22c687c499a01b",
+            "id": "0447cd9e99bd8fd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "alpha/README.md",
-                "mode": "source",
-                "source": false
+                "file": "Development/230825b ReFi BCN Knowledge base.canvas",
+                "viewState": {
+                  "x": 4785.928368692299,
+                  "y": -2813.508924721741,
+                  "zoom": -1.4869069463542346
+                }
               }
             }
           },
@@ -23,9 +27,36 @@
             "id": "1321d078b3e33328",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Development/Knowledge Base Development.canvas",
+                "viewState": {
+                  "x": -1571.8305482189585,
+                  "y": 12599.006297925687,
+                  "zoom": -1.4536700990796103
+                }
+              }
+            }
+          },
+          {
+            "id": "9b2c2a2cc9ab9eee",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b56dcb99ad719a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content (Index).md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +64,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "463b18a4c1c775dc",
+        "type": "tabs",
+        "dimension": 35.75063613231552,
+        "children": [
+          {
+            "id": "3db3d9487b5d9bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content (Index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ReFi-aligned",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "right": {
     "id": "a1108928ecc1b9d6",
@@ -98,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md",
+                "file": "Development/Knowledge Base Development.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md",
+                "file": "Development/Knowledge Base Development.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input/input - ReFi BCN Kick-off sessions synthesis.md"
+                "file": "Development/Knowledge Base Development.canvas"
               }
             }
           }
@@ -162,45 +212,45 @@
   },
   "active": "1321d078b3e33328",
   "lastOpenFiles": [
-    "Input/input - Others.md",
-    "Input/input - Notes.md",
-    "Input/input - Local nodes incubator application.md",
-    "Input/input - Introduction to ReFi BCN.md",
-    "Input/input - Event description.md",
-    "230825b ReFi BCN Knowledge base.canvas",
-    "Knowledge Base Development.canvas",
-    "Hypotheses for ReFi BCN.md",
-    "PFP 3_ Warm (1).png",
-    "Barcelona.md",
-    "Host an Event or Meetup.md",
-    "Knowledge Base Development.canvas.md",
-    "Beta/Notable examples of ReFi projects.md",
-    "Beta/Hypotheses for ReFi BCN.md",
-    "Beta/Guiding principles.md",
-    "Beta/Contextualization of ReFi BCN.md",
-    "Beta/Become a member of ReFi BCN.md",
-    "Beta/Barcelona.md",
-    "alpha/AKASHA Hub.md",
-    "ReFi Barcelona.md",
+    "Ecosystem map.md",
+    "Development/Knowledge Base Development.canvas",
+    "Content (Index).md",
+    "The Regenerative Finance (ReFi) Movement.md",
+    "What is ReFi?.md",
+    "Get in Contact.md",
+    "Home.md",
+    "Development/230825b ReFi BCN Knowledge base.canvas",
+    "Vision for ReFi BCN.md",
+    "Prod/Benvingudes.md",
+    "Images",
+    "Ecosystem Map/Plastiks.md",
+    "Development/Challenges and Opportunities in the ReFi Ecosystem.md",
+    "alpha/ReFi BCN Partnerships.md",
+    "alpha/Regeneration.md",
+    "alpha/ReFi Barcelona Overview.md",
+    "Development/ReFi ecosystem.md",
+    "Beta/ReFi BCN Offerings.md",
+    "Development/ReFi Funding Mechanisms.md",
+    "alpha/README.md",
+    "Development/Cooperatives and DAOs.md",
+    "Development/Commons.md",
+    "Development/Building Bridges.md",
+    "Ecosystem Map/AKASHA Hub.md",
+    "Input - GPT model/input - ReFi BCN Kick-off sessions synthesis.md",
+    "Beta/ReFi DAO.md",
+    "Beta/ReFi-aligned landscape of Barcelona.md",
+    "Beta/Vision for ReFi BCN.md",
+    "Beta/Take up a role in ReFi BCN.md",
+    "Images/PFP 3_ Warm (1).png",
+    "Prod",
     "publish.js",
-    "Ecosystem mapping.md",
-    "Benvingudes.md",
-    "Cooperative landscape of Barcelona and Catalonia.md",
-    "README.md",
-    "State of the ReFi Ecosystem.md",
-    "Beta/State of the ReFi Ecosystem.md",
-    "alpha/Mas Les Vinyes.md",
-    "alpha/Building Bridges.md",
-    "alpha/Challenges and Opportunities in the ReFi Ecosystem.md",
-    "favicon-32x32.png",
-    "Beta",
+    "Images/favicon-32x32.png",
+    "Development",
     "staging",
     "publish.css",
-    "alpha",
+    "Ecosystem Map",
     "Updated Obsidian Publish.css",
     "Enhanced Obsidian Publish.css",
-    "Obsidian Navy Blue Theme.css",
-    "updated_theme.css",
-    "Input"
+    "Obsidian Navy Blue Theme.css"
   ]
 }

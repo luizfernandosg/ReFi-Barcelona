@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # Contribute to ReFi BCN
 
 - [[Take up a Role in ReFi BCN]]

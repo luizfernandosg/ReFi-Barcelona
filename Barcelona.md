@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # Barcelona
 
 - [[Cooperative landscape of Barcelona and Catalonia]]

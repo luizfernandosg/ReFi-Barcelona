@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # ReFi BCN Events and meetups
 Tags: #ReFiBCN #Events #Meetups
 

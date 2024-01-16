@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # State of the ReFi Ecosystem
 
 - [[ReFi ecosystem]]

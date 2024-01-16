@@ -3,6 +3,6 @@ status:
   - to-be-reviewed
   - live
 ---
-# ReFi BCN Knowledge Base - WIP
+# Ecosystem map - WIP
 
 Page under construction 🚧 👷 🏗️.

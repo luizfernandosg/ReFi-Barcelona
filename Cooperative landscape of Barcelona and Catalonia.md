@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # Cooperative landscape of Barcelona and Catalonia
 #Barcelona #Catalonia #Coops #Landscape
 

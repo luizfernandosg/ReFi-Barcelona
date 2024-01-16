@@ -1,3 +1,8 @@
+---
+status: 
+tags:
+  - Events
+---
 # ReFi BCN Kick-off sessions synthesis
 
 ### Introduction

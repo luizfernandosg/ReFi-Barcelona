@@ -1,3 +1,8 @@
+---
+status:
+  - to-be-reviewed
+  - live
+---
 # Host an event or meetup
 
 - [[ReFi BCN Events and Meetups]]
