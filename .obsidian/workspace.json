@@ -6,7 +6,7 @@
       {
         "id": "e093af080f08a678",
         "type": "tabs",
-        "dimension": 64.24936386768448,
+        "dimension": 42.351168048229084,
         "children": [
           {
             "id": "0447cd9e99bd8fd2",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Development/230825b ReFi BCN Knowledge base.canvas",
                 "viewState": {
-                  "x": 4785.928368692299,
-                  "y": -2813.508924721741,
-                  "zoom": -1.4869069463542346
+                  "x": 5583.0961354294595,
+                  "y": -7671.090845610044,
+                  "zoom": -0.6101991874476269
                 }
               }
             }
@@ -31,9 +31,9 @@
               "state": {
                 "file": "Development/Knowledge Base Development.canvas",
                 "viewState": {
-                  "x": -1571.8305482189585,
-                  "y": 12599.006297925687,
-                  "zoom": -1.4536700990796103
+                  "x": 5431.551720366556,
+                  "y": 25498.689039463487,
+                  "zoom": -2.6111063266918046
                 }
               }
             }
@@ -49,18 +49,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b56dcb99ad719a9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content (Index).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -68,7 +56,7 @@
       {
         "id": "463b18a4c1c775dc",
         "type": "tabs",
-        "dimension": 35.75063613231552,
+        "dimension": 57.64883195177091,
         "children": [
           {
             "id": "3db3d9487b5d9bb0",
@@ -76,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content (Index).md",
+                "file": "V1 Knowledge Base Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "airtab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Knowledge Base Development.canvas",
+                "file": "Knowledge Base Framework/Contribute to the Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Knowledge Base Development.canvas",
+                "file": "Knowledge Base Framework/Contribute to the Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Knowledge Base Development.canvas"
+                "file": "Knowledge Base Framework/Contribute to the Knowledge Base.md"
               }
             }
           }
@@ -212,14 +200,26 @@
   },
   "active": "1321d078b3e33328",
   "lastOpenFiles": [
-    "Ecosystem map.md",
+    "Knowledge Base Framework",
+    "V1 Knowledge Base Development.md",
     "Development/Knowledge Base Development.canvas",
-    "Content (Index).md",
+    "Development/230825b ReFi BCN Knowledge base.canvas",
+    "Development/old_publish.css",
+    "Knowledge Base Development.md",
+    "ReFi Ecosystem.md",
+    "Social Economy in Barcelona and Catalonia.md",
+    "Barcelona and the Ecological Transition.md",
+    "Barcelona and Participatory Technology.md",
+    "Barcelona and the Web3 Ecosystem.md",
+    "Knowledge Base Framework/Local Node Knowledge Base Framework.md",
+    "Local Nodes Progress - Case studies.md",
+    "Opportunities for ReFi in Barcelona.md",
+    "Intro to ReFi.pdf",
+    "Ecosystem map.md",
     "The Regenerative Finance (ReFi) Movement.md",
     "What is ReFi?.md",
     "Get in Contact.md",
     "Home.md",
-    "Development/230825b ReFi BCN Knowledge base.canvas",
     "Vision for ReFi BCN.md",
     "Prod/Benvingudes.md",
     "Images",
@@ -231,16 +231,6 @@
     "Development/ReFi ecosystem.md",
     "Beta/ReFi BCN Offerings.md",
     "Development/ReFi Funding Mechanisms.md",
-    "alpha/README.md",
-    "Development/Cooperatives and DAOs.md",
-    "Development/Commons.md",
-    "Development/Building Bridges.md",
-    "Ecosystem Map/AKASHA Hub.md",
-    "Input - GPT model/input - ReFi BCN Kick-off sessions synthesis.md",
-    "Beta/ReFi DAO.md",
-    "Beta/ReFi-aligned landscape of Barcelona.md",
-    "Beta/Vision for ReFi BCN.md",
-    "Beta/Take up a role in ReFi BCN.md",
     "Images/PFP 3_ Warm (1).png",
     "Prod",
     "publish.js",
@@ -249,8 +239,6 @@
     "staging",
     "publish.css",
     "Ecosystem Map",
-    "Updated Obsidian Publish.css",
-    "Enhanced Obsidian Publish.css",
-    "Obsidian Navy Blue Theme.css"
+    "Updated Obsidian Publish.css"
   ]
 }

@@ -3,6 +3,6 @@ status:
   - to-be-reviewed
   - live
 ---
-# ReFi BCN Knowledge Base - WIP
+# Knowledge Base - WIP
 
 Page under construction 🚧 👷 🏗️.
