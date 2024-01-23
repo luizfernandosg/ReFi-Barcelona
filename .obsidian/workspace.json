@@ -6,7 +6,7 @@
       {
         "id": "e093af080f08a678",
         "type": "tabs",
-        "dimension": 42.351168048229084,
+        "dimension": 72.03087885985748,
         "children": [
           {
             "id": "0447cd9e99bd8fd2",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Development/230825b ReFi BCN Knowledge base.canvas",
                 "viewState": {
-                  "x": 5583.0961354294595,
-                  "y": -7671.090845610044,
-                  "zoom": -0.6101991874476269
+                  "x": 10380.76927817178,
+                  "y": -6835.473322569257,
+                  "zoom": -2.333420103639364
                 }
               }
             }
@@ -31,9 +31,9 @@
               "state": {
                 "file": "Development/Knowledge Base Development.canvas",
                 "viewState": {
-                  "x": 5431.551720366556,
-                  "y": 25498.689039463487,
-                  "zoom": -2.6111063266918046
+                  "x": -805.0924212016574,
+                  "y": 32770.177362854956,
+                  "zoom": -2.7466489485154577
                 }
               }
             }
@@ -56,7 +56,7 @@
       {
         "id": "463b18a4c1c775dc",
         "type": "tabs",
-        "dimension": 57.64883195177091,
+        "dimension": 27.969121140142516,
         "children": [
           {
             "id": "3db3d9487b5d9bb0",
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "a1108928ecc1b9d6",
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base Framework/Contribute to the Knowledge Base.md",
+                "file": "Development/Knowledge Base Development.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base Framework/Contribute to the Knowledge Base.md",
+                "file": "Development/Knowledge Base Development.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base Framework/Contribute to the Knowledge Base.md"
+                "file": "Development/Knowledge Base Development.canvas"
               }
             }
           }
@@ -200,10 +201,11 @@
   },
   "active": "1321d078b3e33328",
   "lastOpenFiles": [
-    "Knowledge Base Framework",
     "V1 Knowledge Base Development.md",
     "Development/Knowledge Base Development.canvas",
+    "Hypotheses for ReFi BCN.md",
     "Development/230825b ReFi BCN Knowledge base.canvas",
+    "Knowledge Base Framework",
     "Development/old_publish.css",
     "Knowledge Base Development.md",
     "ReFi Ecosystem.md",
@@ -230,7 +232,6 @@
     "alpha/ReFi Barcelona Overview.md",
     "Development/ReFi ecosystem.md",
     "Beta/ReFi BCN Offerings.md",
-    "Development/ReFi Funding Mechanisms.md",
     "Images/PFP 3_ Warm (1).png",
     "Prod",
     "publish.js",
@@ -238,7 +239,6 @@
     "Development",
     "staging",
     "publish.css",
-    "Ecosystem Map",
-    "Updated Obsidian Publish.css"
+    "Ecosystem Map"
   ]
 }
