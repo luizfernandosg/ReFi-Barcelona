@@ -6,7 +6,6 @@
       {
         "id": "e093af080f08a678",
         "type": "tabs",
-        "dimension": 72.03087885985748,
         "children": [
           {
             "id": "0447cd9e99bd8fd2",
@@ -31,9 +30,9 @@
               "state": {
                 "file": "Development/Knowledge Base Development.canvas",
                 "viewState": {
-                  "x": -805.0924212016574,
-                  "y": 32770.177362854956,
-                  "zoom": -2.7466489485154577
+                  "x": -2059.533605540398,
+                  "y": 22855.602142616204,
+                  "zoom": -0.6450666147470464
                 }
               }
             }
@@ -52,25 +51,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "463b18a4c1c775dc",
-        "type": "tabs",
-        "dimension": 27.969121140142516,
-        "children": [
-          {
-            "id": "3db3d9487b5d9bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V1 Knowledge Base Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "a1108928ecc1b9d6",
@@ -137,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Knowledge Base Development.canvas",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Knowledge Base Development.canvas",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Knowledge Base Development.canvas"
+                "file": "Home.md"
               }
             }
           }
@@ -203,6 +182,8 @@
   "lastOpenFiles": [
     "V1 Knowledge Base Development.md",
     "Development/Knowledge Base Development.canvas",
+    "Screenshot 2024-02-08 at 17.02.51.png",
+    "Screenshot 2024-02-08 at 17.02.19.png",
     "Hypotheses for ReFi BCN.md",
     "Development/230825b ReFi BCN Knowledge base.canvas",
     "Knowledge Base Framework",
