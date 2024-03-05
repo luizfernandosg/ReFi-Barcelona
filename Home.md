@@ -45,7 +45,7 @@ Learn more about [[ReFi Barcelona]] and [[ReFi DAO and Local Nodes]]
 
 We see information as the foundation for building any of these bridges. Being so, that's the layer we're tackling first - here and now -; in this very medium - the [[ReFi BCN Knowledge Base]], that doubles as its website.
 
-We're compiling here an [[ecosystem map]] highlighting the fields we want to explore with ReFi BCN. With this initiative we want to bring to light both the local thriving value-aligned movements of Barcelona, such as the cooperative, and global communities and tech-enablers, such as ReFi and Web3.
+We're compiling here an [[Ecosystem map]] highlighting the fields we want to explore with ReFi BCN. With this initiative we want to bring to light both the local thriving value-aligned movements of Barcelona, such as the cooperative, and global communities and tech-enablers, such as ReFi and Web3.
 
 We want our efforts to mediate positive action on the ground, locally - but not limited to 'our local'. We embrace an open-source ethos, believing that transparency and collaboration are key to our collective growth and impact. This website and knowledge base are designed to be shared and adapted, inviting other local nodes and groups to engage with and expand upon our work.
 

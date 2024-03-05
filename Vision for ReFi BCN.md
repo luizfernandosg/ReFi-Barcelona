@@ -37,5 +37,5 @@ ReFi BCN's vision is to establish Barcelona as a leader in regenerative finance 
 
 ---
 
-[[Contextualization of ReFi BCN]] | [[ReFi BCN Knowledge Base]] | [[Hypotheses for ReFi BCN]] | [[Cooperative landscape of Barcelona and Catalonia]]
+[[Contextualization of ReFi BCN]] | [[ReFi BCN Knowledge Base]] | [[Hypotheses for ReFi BCN]] | [[Cooperative Landscape and Social Economy in Barcelona and Catalonia]]
 

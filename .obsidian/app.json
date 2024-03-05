@@ -1,7 +1,7 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "promptDelete": false,
   "newLinkFormat": "shortest"
 }

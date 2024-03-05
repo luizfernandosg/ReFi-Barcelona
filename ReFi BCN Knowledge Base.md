@@ -15,7 +15,7 @@ At its core, the Knowledge Base is a dynamic convergence point for various strea
 
 ### **Ecosystem Exploration**
 
-- **[[Ecosystem Map]]**: A visual and textual representation of the ReFi-aligned initiatives in Barcelona and globally. This section offers a detailed look into local movements like cooperatives, and global trends like Web3, creating a comprehensive overview of the ecosystem.
+- **[[Ecosystem map]]**: A visual and textual representation of the ReFi-aligned initiatives in Barcelona and globally. This section offers a detailed look into local movements like cooperatives, and global trends like Web3, creating a comprehensive overview of the ecosystem.
 - **Community Spotlight**: Stories and case studies of successful local and global ReFi initiatives, offering tangible insights into their impact and methodologies.
 
 ### **Resource Hub**

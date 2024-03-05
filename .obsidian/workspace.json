@@ -11,29 +11,23 @@
             "id": "0447cd9e99bd8fd2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Development/230825b ReFi BCN Knowledge base.canvas",
-                "viewState": {
-                  "x": 10380.76927817178,
-                  "y": -6835.473322569257,
-                  "zoom": -2.333420103639364
-                }
+                "file": "Ecosystem Map/Projects/Sants.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "1321d078b3e33328",
+            "id": "feabc610d208fcb2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Development/Knowledge Base Development.canvas",
-                "viewState": {
-                  "x": -2059.533605540398,
-                  "y": 22855.602142616204,
-                  "zoom": -0.6450666147470464
-                }
+                "file": "Ecosystem Map/Projects/Impact Hub Barcelona.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -43,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Ecosystem Map/Projects/Barcelona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d3ca6e7788029a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecosystem Map/Barcelona and Degrowth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eece14464f3dd41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecosystem Map/Projects/Barcelona.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -79,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "airtab",
+                "query": "file:decidi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 444.5
   },
   "right": {
     "id": "a1108928ecc1b9d6",
@@ -116,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Ecosystem Map/Projects/Barcelona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Ecosystem Map/Projects/Barcelona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Ecosystem Map/Projects/Barcelona.md"
               }
             }
           }
@@ -178,48 +196,49 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1321d078b3e33328",
+  "active": "247f2d0005f4cc99",
   "lastOpenFiles": [
-    "V1 Knowledge Base Development.md",
+    "Ecosystem Map/Projects/Banc de Bones Pràctiques.md",
+    "Ecosystem Map/Projects/Barcelona.md",
+    "Ecosystem Map/Barcelona and Degrowth.md",
+    "Ecosystem Map/Barcelona and Participatory Technology.md",
+    "Ecosystem Map/Barcelona and the Ecological Transition.md",
+    "Ecosystem Map/Projects/Barcelona Activa.md",
+    "Ecosystem Map/Projects/Barcelona Energia.md",
+    "Ecosystem Map/Projects/Barcelona Lab for Urban Environmental Justice and Sustainability.md",
+    "Ecosystem Map/Projects/Barcelona+Sostenible.md",
+    "Ecosystem Map/Projects/Barris + Sostenibles.md",
+    "Ecosystem Map/Projects/BATEC.md",
+    "Ecosystem Map/Projects/Bloc4BCN.md",
+    "Ecosystem Map/Blockchain Ecosystems.md",
+    "Ecosystem Map/Projects/Can Battló.md",
+    "Ecosystem Map/Projects/Canòdrom.md",
+    "Ecosystem Map/Projects/CEL COOP.md",
+    "Ecosystem Map/Projects/Celo.md",
+    "Ecosystem Map/Projects/Celo Europe DAO.md",
+    "Ecosystem Map/Projects/Climate Collective.md",
+    "Ecosystem Map/Projects/COAMB - Col legi d’Ambientòlegs de Catalunya.md",
+    "Ecosystem Map/Projects/Colectic.md",
+    "Ecosystem Map/Projects/Comerç + Sostenible.md",
+    "Ecosystem Map/Projects/Comissions XES.md",
+    "Ecosystem Map/Community and Housing Cooperatives.md",
+    "Ecosystem Map/Community, Cultural and Social Projects.md",
+    "Ecosystem Map/Projects/Comunalitat de Sants.md",
+    "Development/230825b ReFi BCN Knowledge base.canvas",
+    "Ecosystem Map/Intro to ReFi.pdf",
     "Development/Knowledge Base Development.canvas",
+    "Ecosystem Map/Projects",
+    "Ecosystem Map/untitled folder",
     "Screenshot 2024-02-08 at 17.02.51.png",
     "Screenshot 2024-02-08 at 17.02.19.png",
-    "Hypotheses for ReFi BCN.md",
-    "Development/230825b ReFi BCN Knowledge base.canvas",
     "Knowledge Base Framework",
     "Development/old_publish.css",
-    "Knowledge Base Development.md",
-    "ReFi Ecosystem.md",
-    "Social Economy in Barcelona and Catalonia.md",
-    "Barcelona and the Ecological Transition.md",
-    "Barcelona and Participatory Technology.md",
-    "Barcelona and the Web3 Ecosystem.md",
-    "Knowledge Base Framework/Local Node Knowledge Base Framework.md",
-    "Local Nodes Progress - Case studies.md",
-    "Opportunities for ReFi in Barcelona.md",
     "Intro to ReFi.pdf",
-    "Ecosystem map.md",
-    "The Regenerative Finance (ReFi) Movement.md",
-    "What is ReFi?.md",
-    "Get in Contact.md",
-    "Home.md",
-    "Vision for ReFi BCN.md",
-    "Prod/Benvingudes.md",
     "Images",
-    "Ecosystem Map/Plastiks.md",
-    "Development/Challenges and Opportunities in the ReFi Ecosystem.md",
-    "alpha/ReFi BCN Partnerships.md",
-    "alpha/Regeneration.md",
-    "alpha/ReFi Barcelona Overview.md",
-    "Development/ReFi ecosystem.md",
-    "Beta/ReFi BCN Offerings.md",
     "Images/PFP 3_ Warm (1).png",
     "Prod",
     "publish.js",
     "Images/favicon-32x32.png",
-    "Development",
-    "staging",
-    "publish.css",
-    "Ecosystem Map"
+    "Development"
   ]
 }

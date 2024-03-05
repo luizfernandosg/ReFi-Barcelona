@@ -1,1 +1,0 @@
-# Social Economy in Barcelona and Catalonia

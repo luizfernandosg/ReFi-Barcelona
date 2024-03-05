@@ -14,5 +14,5 @@ Tags: #ReFiBCN
 
 ---
 
-[[Vision for ReFi BCN]] | [[Contextualization of ReFi BCN]] | [[ReFi BCN Knowledge Base]] | [[Cooperative landscape of Barcelona and Catalonia]]
+[[Vision for ReFi BCN]] | [[Contextualization of ReFi BCN]] | [[ReFi BCN Knowledge Base]] | [[Cooperative Landscape and Social Economy in Barcelona and Catalonia]]
 

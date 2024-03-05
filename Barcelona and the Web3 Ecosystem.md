@@ -1,1 +1,0 @@
-# Barcelona and the Web3 Ecosystem

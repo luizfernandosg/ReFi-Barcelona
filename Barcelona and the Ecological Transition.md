@@ -1,1 +1,0 @@
-# Barcelona and the Ecological Transition

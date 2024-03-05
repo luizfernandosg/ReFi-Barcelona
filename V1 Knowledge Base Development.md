@@ -18,7 +18,7 @@
 
 - [ ] [[ReFi DAO and Local Nodes]]
 	- [ ] [[Local Nodes Progress - Case studies]]
-	- [ ] [[ReFi Ecosystem]]
+	- [ ] [[Development/ReFi ecosystem]]
 
 - [ ] [[ReFi BCN Knowledge Base]]
 	- [ ] [[Local Node Knowledge Base Framework]]
@@ -27,21 +27,21 @@
 
 - [ ] [[Ecosystem map]]
 	- [ ] [[Barcelona]]
-	- [ ] [[ReFi-aligned landscape of Barcelona]]
-	- [ ] [[Cooperative landscape of Barcelona and Catalonia]]
+	- [ ] [[Local landscape - Barcelona and Catalonia]]
+	- [ ] [[Cooperative Landscape and Social Economy in Barcelona and Catalonia]]
 	- [ ] [[Barcelona and the Web3 Ecosystem]]
 	- [ ] [[Barcelona and Participatory Technology]]
 	- [ ] [[Barcelona and the Ecological Transition]]
 	- [ ] [[Social Economy in Barcelona and Catalonia]]
-	- [ ] [[ReFi Ecosystem]]
+	- [ ] [[Development/ReFi ecosystem]]
 
 - [ ] [[What is ReFi?]]
 	- [ ] [[State of the ReFi Ecosystem]]
-	- [ ] [[ReFi Ecosystem]]
+	- [ ] [[Development/ReFi ecosystem]]
 
 - [ ] [[Opportunities for ReFi in Barcelona]]
-	- [ ] [[ReFi-aligned landscape of Barcelona]]
-	- [ ] [[ReFi Ecosystem]]
+	- [ ] [[Local landscape - Barcelona and Catalonia]]
+	- [ ] [[Development/ReFi ecosystem]]
 	- [ ] [[Barcelona]]
 
 - [ ] [[Local Nodes Progress - Case studies]]
@@ -53,7 +53,7 @@
 - [ ] [[Contribute to the Knowledge Base]]
 	- [ ] [[README]]
 
-- [ ] [[ReFi Ecosystem]]
+- [ ] [[Development/ReFi ecosystem]]
 	- [ ] [[State of the ReFi Ecosystem]]
 
 - [ ] [[State of the ReFi Ecosystem]]
@@ -61,8 +61,8 @@
 - [ ] [[README]]
 
 - [ ] [[Barcelona]]
-	- [ ] [[ReFi-aligned landscape of Barcelona]]
-	- [ ] [[Cooperative landscape of Barcelona and Catalonia]]
+	- [ ] [[Local landscape - Barcelona and Catalonia]]
+	- [ ] [[Cooperative Landscape and Social Economy in Barcelona and Catalonia]]
 	- [ ] [[Barcelona and the Web3 Ecosystem]]
 	- [ ] [[Barcelona and Participatory Technology]]
 	- [ ] [[Barcelona and the Ecological Transition]]
