@@ -1,3 +1,0 @@
----
-Parent item: "[[Celo]]"
----

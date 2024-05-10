@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecosystem Map/Projects/Sants.md",
+                "file": "Ecosystem Map/Local/Sants.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecosystem Map/Projects/Impact Hub Barcelona.md",
+                "file": "Ecosystem Map/Local/Impact Hub Barcelona.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecosystem Map/Projects/Barcelona.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecosystem Map/Barcelona and Degrowth.md",
+                "file": "Ecosystem Map/Local/Barcelona and Degrowth.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecosystem Map/Projects/Barcelona.md",
+                "file": "Events/ReFi UNCONFERENCE Barcelona.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:decidi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 271.5
   },
   "right": {
     "id": "a1108928ecc1b9d6",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecosystem Map/Projects/Barcelona.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecosystem Map/Projects/Barcelona.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecosystem Map/Projects/Barcelona.md"
+                "file": "Home.md"
               }
             }
           }
@@ -196,49 +196,55 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "247f2d0005f4cc99",
+  "active": "9b2c2a2cc9ab9eee",
   "lastOpenFiles": [
-    "Ecosystem Map/Projects/Banc de Bones Pràctiques.md",
-    "Ecosystem Map/Projects/Barcelona.md",
-    "Ecosystem Map/Barcelona and Degrowth.md",
-    "Ecosystem Map/Barcelona and Participatory Technology.md",
-    "Ecosystem Map/Barcelona and the Ecological Transition.md",
-    "Ecosystem Map/Projects/Barcelona Activa.md",
-    "Ecosystem Map/Projects/Barcelona Energia.md",
-    "Ecosystem Map/Projects/Barcelona Lab for Urban Environmental Justice and Sustainability.md",
-    "Ecosystem Map/Projects/Barcelona+Sostenible.md",
-    "Ecosystem Map/Projects/Barris + Sostenibles.md",
-    "Ecosystem Map/Projects/BATEC.md",
-    "Ecosystem Map/Projects/Bloc4BCN.md",
-    "Ecosystem Map/Blockchain Ecosystems.md",
-    "Ecosystem Map/Projects/Can Battló.md",
-    "Ecosystem Map/Projects/Canòdrom.md",
-    "Ecosystem Map/Projects/CEL COOP.md",
-    "Ecosystem Map/Projects/Celo.md",
-    "Ecosystem Map/Projects/Celo Europe DAO.md",
-    "Ecosystem Map/Projects/Climate Collective.md",
-    "Ecosystem Map/Projects/COAMB - Col legi d’Ambientòlegs de Catalunya.md",
-    "Ecosystem Map/Projects/Colectic.md",
-    "Ecosystem Map/Projects/Comerç + Sostenible.md",
-    "Ecosystem Map/Projects/Comissions XES.md",
-    "Ecosystem Map/Community and Housing Cooperatives.md",
-    "Ecosystem Map/Community, Cultural and Social Projects.md",
-    "Ecosystem Map/Projects/Comunalitat de Sants.md",
+    "Development/ReFi BCN Knowledge Base.md",
+    "Home.md",
+    "Ecosystem Map/Local/Barcelona.md",
+    "Events/ReFi UNCONFERENCE Barcelona.md",
+    "ReFi Barcelona/Get in Contact.md",
+    "Ecosystem Map/Ecosystem map.md",
+    "ReFi Barcelona/ReFi Barcelona.md",
+    "ReFi Barcelona/Events.md",
+    "ReFi Unconference Barcelona.md",
+    "Images/ReFi Unconference Cover (1).png",
+    "Images/refibarcecca.png",
+    "Images/ReFiBarce_Trees.png",
+    "Images/dectec_for_ecosocial.png",
+    "Images/barcecloud.png",
+    "ReFi.md",
+    "Ecosystem Map/Global - ReFi and Web3/ReFi Ecosystem.md",
+    "Ecosystem Map/Global - ReFi and Web3/What is ReFi.md",
+    "Events",
+    "Ecosystem Map/Global - ReFi and Web3/Global Context - ReFi and Web3.md",
+    "Ecosystem Map/Local/Web3 with Roots and Connections in Barcelona and Catalonia.md",
+    "Ecosystem Map/Global - ReFi and Web3/The State of ReFi.md",
+    "Ecosystem Map/Local/Related Educational and Academic Landscape of Barcelona.md",
+    "Ecosystem Map/Local/Local landscape - Barcelona and Catalonia.md",
+    "Ecosystem Map/Local/Ethical and Solidarity Finance.md",
+    "Ecosystem Map/Local/Community and Housing Cooperatives.md",
+    "Ecosystem Map/Global - ReFi and Web3/Blockchain Ecosystems.md",
+    "Ecosystem Map/Global - ReFi and Web3/Celo.md",
+    "Ecosystem Map/Local/Vocdoni.md",
+    "Ecosystem Map/Global - ReFi and Web3",
+    "Ecosystem Map/Local/Sostre Cívic.md",
+    "Ecosystem Map/Local/Sostenible cat.md",
+    "Ecosystem Map/Local/Societat Catalana d’Educació Ambiental.md",
+    "Ecosystem Map/Local/Smart Citizen.md",
+    "Ecosystem Map/Local",
+    "ReFi Barcelona/Untitled",
+    "ReFi Barcelona",
+    "Ecosystem Map/Global - ReFi and Web3/Intro to ReFi.pdf",
+    "publish.css",
+    "Development/publish.css",
+    "Images/ReFiBCN.png",
+    "Development/Knowledge Base Framework",
+    "Images/Screenshot 2024-02-08 at 17.02.51.png",
+    "Images/Screenshot 2024-02-08 at 17.02.19.png",
+    "Development/Archive/Input - GPT model",
     "Development/230825b ReFi BCN Knowledge base.canvas",
-    "Ecosystem Map/Intro to ReFi.pdf",
     "Development/Knowledge Base Development.canvas",
-    "Ecosystem Map/Projects",
-    "Ecosystem Map/untitled folder",
     "Screenshot 2024-02-08 at 17.02.51.png",
-    "Screenshot 2024-02-08 at 17.02.19.png",
-    "Knowledge Base Framework",
-    "Development/old_publish.css",
-    "Intro to ReFi.pdf",
-    "Images",
-    "Images/PFP 3_ Warm (1).png",
-    "Prod",
-    "publish.js",
-    "Images/favicon-32x32.png",
-    "Development"
+    "Screenshot 2024-02-08 at 17.02.19.png"
   ]
 }

@@ -3,8 +3,6 @@
   "host": "publish-01.obsidian.md",
   "included": [],
   "excluded": [
-    "Input",
-    "alpha",
-    "Beta"
+    "Development"
   ]
 }

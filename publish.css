@@ -21,8 +21,8 @@ body {
 .theme-dark,
 .theme-light {
   --background-primary: #002147; /* Original Navy Blue */
-  --background-secondary: #0A3049; /* Original Slightly lighter Navy Blue */
-  --background-tertiary: #123A5A; /* Original Even lighter Navy Blue */
+  --background-secondary: #002147; /* Original Slightly lighter Navy Blue */
+  --background-tertiary: #002147; /* Original Even lighter Navy Blue */
   --background-modifier-border: rgba(255, 255, 255, 0.15); /* Border color */
   --text-normal: #E1E1E6; /* Light gray for normal text */
   --text-muted: #a8a8b3; /* Muted text */

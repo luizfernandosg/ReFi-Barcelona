@@ -1,1 +1,0 @@
-# Cooperatives and DAOs

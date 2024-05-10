@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "status": "multitext"
+    "status": "multitext",
+    "Parent item": "multitext"
   }
 }
