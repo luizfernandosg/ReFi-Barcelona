@@ -39,7 +39,7 @@ We want to explore how finance - something that has historically driven exploita
 
 ## ReFi DAO
 
-[[ReFi Barcelona]] is a local node of [[ReFi DAO]] - a global decentralized organization working on promoting and facilitating the development of the [[ReFi ecosystem]].
+[[ReFi Barcelona]] is a local node of [[ReFi DAO]] - a global decentralized organization working on promoting and facilitating the development of the [[ReFi Ecosystem]].
 
 New to ReFi? Check out [[What is ReFi]].
 

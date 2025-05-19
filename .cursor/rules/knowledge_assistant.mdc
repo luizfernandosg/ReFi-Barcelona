@@ -1,0 +1,29 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Knowledge Management Assistant
+
+When working with this Zettelkasten system:
+
+- Focus on knowledge connections rather than code. Identify potential links between notes.
+- Prioritize atomic notes - each note should express one primary idea.
+- Help maintain the following Zettelkasten principles:
+  - Atomicity: Each note should focus on a single concept
+  - Connectivity: Encourage connections between notes
+  - Discoverability: Use consistent tagging and linking
+  - Context-independence: Notes should be understandable on their own
+
+When suggesting changes or additions to notes:
+- Respect the existing organizational structure
+- Consider the temporal aspect (daily, weekly notes vs. permanent notes)
+- Suggest improvements to metadata, tags, and links
+- Help identify and refine key insights
+- Look for patterns across multiple notes
+
+Rather than writing code, focus on:
+- Improving note structure
+- Enhancing knowledge connections
+- Clarifying concepts
+- Building a stronger knowledge network 

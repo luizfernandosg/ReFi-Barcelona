@@ -8,7 +8,7 @@ Barcelona's commitment to supporting and incubating cooperative projects is evid
 ## Featured groups
 
 - **[[Xarxa d’Ateneus Cooperatius de Catalunya]]**: A network enhancing socio-economic relations through education, project support, and inter-cooperation facilitation,  promoting sustainable and people-centered economic models.
-    - **[[Coòpolis - Ateneu Cooperatiu de Barcelona]]**: Acts as a central hub for promoting the [[Economia Social|Social and Solidarity Economy (ESS)]] in Barcelona, focusing on the creation of job opportunities within cooperatives and supporting the energy transition through innovative projects.
+    - **[[Coòpolis]]**: Acts as a central hub for promoting the [[Economia Social|Social and Solidarity Economy (ESS)]] in Barcelona, focusing on the creation of job opportunities within cooperatives and supporting the energy transition through innovative projects.
 - **[[Cooperatives de Treball]]**: Offers crucial support to worker cooperatives, providing services aimed at enhancing financial stability and societal impact, with initiatives promoting sustainability and economic democracy.
 - **[[Bloc4BCN]]**: A flagship cooperative hub facilitating socio-economic transformation through incubation and acceleration programs. It serves as a vibrant space for fostering cooperative awareness and establishing local and international connections.
 - **[[LabCoop]]**: Focuses on social entrepreneurship and ecological sustainability, using cooperative models to drive positive social and ecological outcomes across multiple areas, including empowerment, inter-cooperation, and socio-labor insertion.

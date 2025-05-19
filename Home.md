@@ -19,15 +19,15 @@ ReFi BCN aims to illuminate and explore these areas and connection opportunities
 ¤.°¸¸°.¤ ¤.°¸¸°.¤ ¤.°¸¸°.¤ ¤.°¸¸°.¤ ¤.°¸¸°.¤ ¤.°¸¸°.¤ ¤.°¸¸°.¤ ¤.°¸¸°.¤
 
 
-> [!Tip] [[ReFi Unconference Barcelona]]
-> On April 20th to 25th ReFi Barcelona is hosting the [[ReFi Unconference Barcelona]] together with the Crypto Commons Association and the Trusted Seed.
+> [!Tip] [[ReFi UNCONFERENCE Barcelona]]
+> On April 20th to 25th ReFi Barcelona hosted the [[ReFi UNCONFERENCE Barcelona]] together with the Crypto Commons Association and the Trusted Seed.
 > 
-> See more information and register here: https://commonseconomy.notion.site/ReFi-UNCONFERENCE-Barcelona-c184c3edc6ef462c9e64d49985d2b63e
+> See more information here: https://commonseconomy.notion.site/ReFi-UNCONFERENCE-Barcelona-c184c3edc6ef462c9e64d49985d2b63e
 
 
 ## What is [[ReFi Barcelona|ReFi BCN]]?
 
-ReFi Barcelona is a collective working on bridging global movements and infrastructure - such as [[ReFi Ecosystem|ReFi]] (Regenerative Finance), CoFi (Collaborative Finance), Web3 and other decentralized and open technologies - with local groups and movements working in alignment and driving the ecosocial transition, assembled in the [[Ecosystem Map]].
+ReFi Barcelona is a collective working on bridging global movements and infrastructure - such as [[ReFi Ecosystem|ReFi]] (Regenerative Finance), CoFi (Collaborative Finance), Web3 and other decentralized and open technologies - with local groups and movements working in alignment and driving the ecosocial transition, assembled in the [[Ecosystem map]].
 
 Our mission is to pinpoint pivotal leverage points, connecting the local with the global, to create articulations between them and to foster the changes we want see, fostering connections between them.
 
@@ -35,7 +35,7 @@ Learn more about [[ReFi Barcelona]].
 
 ## ReFi DAO
 
-[[ReFi Barcelona]] is a local node of [[ReFi DAO]] - a global decentralized organization working on promoting and facilitating the development of the [[ReFi ecosystem]].
+[[ReFi Barcelona]] is a local node of [[ReFi DAO]] - a global decentralized organization working on promoting and facilitating the development of the [[ReFi Ecosystem]].
 
 New to ReFi? Check out [[What is ReFi]].
 

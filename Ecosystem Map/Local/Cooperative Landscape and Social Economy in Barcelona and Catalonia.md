@@ -11,7 +11,7 @@ Barcelona and Catalonia are at the forefront of a transformative movement, lever
 
 The **Economia Social** in Barcelona and Catalonia encapsulates a transformative approach to creating social, democratic, and inclusive economic models. Supported by the Departament d’Empresa i Treball de la [[Generalitat de Catalunya]], this initiative positions the social and cooperative economy as a keystone for building a more equitable and sustainable economic model.
 
-**Some initiatives:** [[Xarxa d’Ateneus Cooperatius de Catalunya]], [[Coòpolis - Ateneu Cooperatiu de Barcelona]].
+**Some initiatives:** [[Xarxa d’Ateneus Cooperatius de Catalunya]], [[Coòpolis]].
 
 ### 2. [[Xarxa d'Economia Solidària (XES)]]
 
@@ -65,7 +65,7 @@ Digital tools and open-source technologies are being leveraged by cooperatives l
 
 Organizations that play crucial roles in supporting and incubating cooperative projects within the **[[Economia Social|Social and Solidarity Economy (ESS)]]**, contributing to the ecosocial transition.
 
-**Featured Initiatives:** [[Xarxa d’Ateneus Cooperatius de Catalunya]], [[Coòpolis - Ateneu Cooperatiu de Barcelona]], [[Cooperatives de Treball]], [[Bloc4BCN]], [[LabCoop]], [[Holon]], [[Resilience.Earth]], [[Raons]].
+**Featured Initiatives:** [[Xarxa d’Ateneus Cooperatius de Catalunya]], [[Coòpolis]], [[Cooperatives de Treball]], [[Bloc4BCN]], [[LabCoop]], [[Holon]], [[Resilience.Earth]], [[Raons]].
 
 
 ## Project Highlights

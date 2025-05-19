@@ -16,7 +16,9 @@
                 "file": "Ecosystem Map/Local/Sants.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sants"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Ecosystem Map/Local/Impact Hub Barcelona.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Impact Hub Barcelona"
             }
           },
           {
@@ -37,10 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "ReFi Barcelona/Línies Estratègiques.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Línies Estratègiques"
+            }
+          },
+          {
+            "id": "21bd4f53919c56a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReFi Barcelona/ReFi BCN One Pager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReFi BCN One Pager"
+            }
+          },
+          {
+            "id": "f00728fe6aac1f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecosystem Map/Local/Coòpolis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coòpolis"
             }
           },
           {
@@ -52,7 +86,9 @@
                 "file": "Ecosystem Map/Local/Barcelona and Degrowth.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Barcelona and Degrowth"
             }
           },
           {
@@ -64,11 +100,13 @@
                 "file": "Events/ReFi UNCONFERENCE Barcelona.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ReFi UNCONFERENCE Barcelona"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,8 +125,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +144,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -142,7 +187,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -154,7 +201,9 @@
                 "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -165,7 +214,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -175,7 +226,9 @@
               "type": "outline",
               "state": {
                 "file": "Home.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
             }
           }
         ]
@@ -196,55 +249,57 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9b2c2a2cc9ab9eee",
+  "active": "f00728fe6aac1f8c",
   "lastOpenFiles": [
-    "Development/ReFi BCN Knowledge Base.md",
-    "Home.md",
-    "Ecosystem Map/Local/Barcelona.md",
-    "Events/ReFi UNCONFERENCE Barcelona.md",
-    "ReFi Barcelona/Get in Contact.md",
-    "Ecosystem Map/Ecosystem map.md",
-    "ReFi Barcelona/ReFi Barcelona.md",
-    "ReFi Barcelona/Events.md",
-    "ReFi Unconference Barcelona.md",
+    "Dev [new]/articles/bridging-urban-rural-divide.md",
+    "Dev [new]/articles/bridging-divides.md",
+    "BioFi Barcelona/Bioregional Knowledge Commons.md",
+    "BioFi Barcelona/BioFi/Resources/Forum Transicio Ecosocial v10.pdf",
+    "BioFi Barcelona/Bioregionalisme a Catalunya/Balkar Earth.md",
+    "BioFi Barcelona/Bioregionalisme a Catalunya/Fòrum per la Transició Ecosocia.md",
+    "BioFi Barcelona/250526 A Bioregional Approach for ReFi BCN.md",
+    "ReFi Barcelona/Línies Estratègiques.md",
+    "BioFi Barcelona/BioFi/What is BioFi?.md",
+    "BioFi Barcelona/BioFi/BioFi.md",
+    "Cultura_Cooperativa_Barcelona.md",
+    "Dev [new]/articles/why-cooperative-structure.md",
+    "Dev [new]/articles/why-bioregional-approach.md",
+    "Dev [new]/articles/resource-flows-financial-management.md",
+    "Dev [new]/articles/membership-stakeholders.md",
+    "Dev [new]/articles/hybrid-model-bridging-web3-social-economy.md",
+    "Dev [new]/articles/flow-funding-resource-allocation.md",
+    "Dev [new]/articles/dao-mechanisms.md",
+    "Dev [new]/articles/creating-roots-territory.md",
+    "Dev [new]/articles/cooperative-structure-enabler.md",
+    "Dev [new]/articles/collaborating-wider-bioregions.md",
+    "Dev [new]/articles/building-bioregional-financing-facility.md",
+    "Dev [new]/articles/bioregional-financing-facility.md",
+    "Dev [new]/articles",
+    "Dev [new]/Bridging Worlds - ReFi BCN's Cooperative Approach to Digital Commons.md",
+    "Dev [new]/ReFi BCN - Constituting a Local Node as a Cooperative.md",
+    "Dev [new]/ReFi BCN - A Bioregional Approach.md",
+    "Dev [new]/Cultura_Cooperativa_Barcelona.md",
+    "Dev [new]/Participation",
+    "Dev [new]/Membership",
+    "Dev [new]/Articles",
+    "Dev [new]",
+    "Dev [old]/Archive/Input - GPT model",
+    "Dev [old]/publish.css",
+    "Dev [old]/old_publish.css",
+    "Dev [old]/Knowledge Base Framework",
+    "Dev [old]/Knowledge Base Development.canvas",
+    "Dev [old]/230825b ReFi BCN Knowledge base.canvas",
+    "BioFi Barcelona/BioFi/Resources/BioFi Project Image.png",
+    "BioFi Barcelona/BioFi/Resources/BioFi Design Principles Image.jpg",
+    "250401 BioFi Barcelona/BioFi/Resources/BioFi Project Image.png",
+    "250401 BioFi Barcelona/BioFi/Resources/BioFi Design Principles Image.jpg",
+    "250401 BioFi Barcelona/BioFi/BioFi Design Principles Image.jpg",
     "Images/ReFi Unconference Cover (1).png",
     "Images/refibarcecca.png",
     "Images/ReFiBarce_Trees.png",
     "Images/dectec_for_ecosocial.png",
     "Images/barcecloud.png",
-    "ReFi.md",
-    "Ecosystem Map/Global - ReFi and Web3/ReFi Ecosystem.md",
-    "Ecosystem Map/Global - ReFi and Web3/What is ReFi.md",
-    "Events",
-    "Ecosystem Map/Global - ReFi and Web3/Global Context - ReFi and Web3.md",
-    "Ecosystem Map/Local/Web3 with Roots and Connections in Barcelona and Catalonia.md",
-    "Ecosystem Map/Global - ReFi and Web3/The State of ReFi.md",
-    "Ecosystem Map/Local/Related Educational and Academic Landscape of Barcelona.md",
-    "Ecosystem Map/Local/Local landscape - Barcelona and Catalonia.md",
-    "Ecosystem Map/Local/Ethical and Solidarity Finance.md",
-    "Ecosystem Map/Local/Community and Housing Cooperatives.md",
-    "Ecosystem Map/Global - ReFi and Web3/Blockchain Ecosystems.md",
-    "Ecosystem Map/Global - ReFi and Web3/Celo.md",
-    "Ecosystem Map/Local/Vocdoni.md",
-    "Ecosystem Map/Global - ReFi and Web3",
-    "Ecosystem Map/Local/Sostre Cívic.md",
-    "Ecosystem Map/Local/Sostenible cat.md",
-    "Ecosystem Map/Local/Societat Catalana d’Educació Ambiental.md",
-    "Ecosystem Map/Local/Smart Citizen.md",
-    "Ecosystem Map/Local",
-    "ReFi Barcelona/Untitled",
-    "ReFi Barcelona",
-    "Ecosystem Map/Global - ReFi and Web3/Intro to ReFi.pdf",
-    "publish.css",
-    "Development/publish.css",
-    "Images/ReFiBCN.png",
-    "Development/Knowledge Base Framework",
-    "Images/Screenshot 2024-02-08 at 17.02.51.png",
-    "Images/Screenshot 2024-02-08 at 17.02.19.png",
-    "Development/Archive/Input - GPT model",
     "Development/230825b ReFi BCN Knowledge base.canvas",
-    "Development/Knowledge Base Development.canvas",
-    "Screenshot 2024-02-08 at 17.02.51.png",
-    "Screenshot 2024-02-08 at 17.02.19.png"
+    "Development/Knowledge Base Development.canvas"
   ]
 }

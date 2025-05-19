@@ -1,0 +1,10 @@
+# The Enabling Environment for Bioregional Financing Facilities
+3. The Enabling Environment for Bioregional Financing 49
+Facilities
+ 3.1 Bioregional organizing and value creation 50
+ 3.2 The phases of multi-stakeholder bioregional regeneration 53
+ Case Study 2: The Bioregional Weaving Lab in South East Ireland – An 57
+ Example of a Multi-stakeholder Process for Bioregional Regeneration
+ 3.3 Bioregional Hubs 60
+ Case Study 3: The Bioregional Learning Centre in South Devon – Modeling 62
+ Bioregional Hubs
