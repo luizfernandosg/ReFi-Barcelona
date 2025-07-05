@@ -1,6 +1,6 @@
 # What is BioFi?
 
-At its core, BioFi is a framework that organizes the flow of financial capital and other multi-capital resources to the regeneration of ecosystems, culture, and communities in bioregions. More broadly, BioFi is also a philosophy rooted in and informed by: systems thinking, bioregionalism, living systems science, Indigenous ways of knowing, permaculture, the rights of nature, regenerative economics, nonviolence, decolonization, and social justice.
+At its core, [[BioFi]] is a framework that organizes the flow of financial capital and other [[BioFi Glossary#Multi-capital|multi-capital]] resources to the [[BioFi Glossary#Regeneration|regeneration]] of ecosystems, culture, and communities in [[BioFi Glossary#Bioregion|bioregions]]. More broadly, BioFi is also a philosophy rooted in and informed by: systems thinking, bioregionalism, living systems science, Indigenous ways of knowing, permaculture, the rights of nature, regenerative economics, nonviolence, decolonization, and social justice.
 
 **BioFi aims to catalyze the transformation of financial and economic systems from those that are:**
 - global,
@@ -28,7 +28,21 @@ There are a wide range of BioFi-aligned tools, templates, mechanisms, and approa
 - Embrace complexity and relationality
 - Work with the regenerative potential of life (see [Capra](https://www.fritjofcapra.net/principles-of-life/) and [Kauffman et al](https://royalsocietypublishing.org/doi/10.1098/rsfs.2022.0063).)
 
-To dive deeper into the design philosophy of BioFi, check out the [BioFi Design Principles](https://www.biofi.earth/biofi-design-principles).
+To dive deeper into the design philosophy of BioFi, check out the [[BioFi Design Principles]].
+
+## Practical Applications
+
+BioFi principles are being applied in various contexts around the world. In Catalonia, organizations like [[Resilience Earth]], [[Arran de Terra]], and [[Eixarcolant]] demonstrate bioregional approaches to community development and regenerative practices. The [[Assemblea Ciutadana pel Clima de Catalunya]] and [[Assemblea Ciutadana pel Clima de Barcelona]] represent participatory governance models that align with BioFi's community-owned approach.
+
+International organizations such as [[Gaia Education]] and [[Regenesis Institute]] provide educational frameworks and methodologies that support BioFi implementation, while [[Dark Matter Labs]] explores systems change innovations that complement bioregional finance approaches.
+
+## Next Steps
+
+To understand how BioFi works in practice, explore:
+- [[What is a BFF?]] - Learn about [[BioFi Glossary#Bioregional Financing Facility (BFF)|Bioregional Financing Facilities]]
+- [[Activation Guide for Bioregional Organizing Teams]] - Practical steps for implementation
+- [[BioFi Case Studies]] - Real-world examples of BioFi in action
+- [[BioFi Glossary]] - Key terminology and concepts
 
 ---
 

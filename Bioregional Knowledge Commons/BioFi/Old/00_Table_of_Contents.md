@@ -1,0 +1,16 @@
+# Table of Contents
+
+* [Front Matter](00_Front_Matter.md)
+* [Foreword](Bioregional%20Knowledge%20Commons/BioFi/Old/01_Foreword.md)
+* [Key Messages](Bioregional%20Knowledge%20Commons/BioFi/Old/02_Key_Messages.md)
+* [Executive Summary](Bioregional%20Knowledge%20Commons/BioFi/Old/03_Executive_Summary.md)
+* [Introduction](Bioregional%20Knowledge%20Commons/BioFi/Old/04_Introduction.md)
+* [The Case for Bioregional Financing Facilities](05_The_Case_for_Bioregional_Financing_Facilities.md)
+* [The Enabling Environment](06_The_Enabling_Environment.md)
+* [Designing, Building, and Implementing](./07_Designing,_Building,_and_Implementing.md)
+* [Innovative Mechanisms](08_Innovative_Mechanisms.md)
+* [BFF Governance](09_BFF_Governance.md)
+* [Case Studies](Bioregional%20Knowledge%20Commons/BioFi/Old/10_Case_Studies.md)
+* [Conclusion](11_Conclusion.md)
+* [Glossary](12_Glossary.md)
+* [References](13_References.md)

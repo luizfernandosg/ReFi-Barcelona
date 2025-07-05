@@ -8,7 +8,7 @@ BFFs can drive the decentralization of financial resource governance, aggregatio
 
 **Bioregional Financing Facilities: connecting financial resources and regenerators**
 
-![alt text](<Resources/BioFi Project Image.png>)
+![alt text](<BioFi Project Image.png>)
 
 *There is a lack of connective tissue (trunk and branches) between those that hold and manage the large (and increasingly concentrated) pool of financial resources (leaves of the tree) and the coalitions of actors on the ground (regenerators) carrying out these critical regenerative activities (roots and mycelial network). BFFs can serve this function.*
 

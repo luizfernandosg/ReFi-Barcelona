@@ -11,7 +11,7 @@ The **[[Ecosystem map]]** within the **[[ReFi BCN Knowledge Base]]** is a compre
 
 ### [[Barcelona and Participatory Technology]]
 
-- **[[Archive/00 Buffer - check later/Decidim]]:** An open-source platform fostering participatory democracy. It enables consultations, budgeting, and policy-making, showcasing Barcelona's commitment to inclusivity and community empowerment. Decidim hosts significant initiatives like the [[Assemblea pel Clima]] of Barcelona, the [[Assemblea Ciutadana pel Clima de Catalunya]], and [[Decidim Barcelona]], demonstrating its pivotal role in civic engagement.
+- **[[Archive/00 Buffer - check later/Decidim]]:** An open-source platform fostering participatory democracy. It enables consultations, budgeting, and policy-making, showcasing Barcelona's commitment to inclusivity and community empowerment. Decidim hosts significant initiatives like the [[Assemblea pel Clima]] of Barcelona, the [[Ecosystem Map/Local/Assemblea Ciutadana pel Clima de Catalunya]], and [[Decidim Barcelona]], demonstrating its pivotal role in civic engagement.
 - **[[Archive/00 Buffer - check later/Goteo]]:** A civic crowdfunding platform that finances projects with social, cultural, and educational impacts. Goteo champions collective investment in public goods, aligning with the Sustainable Development Goals.
 - **[[Canòdrom]]:** The Digital and Democratic Innovation Centre in Barcelona, merging digital culture with democratic participation. It serves as a hub for digital rights, open-source technology, and participatory activities.
 - **[[Fab Lab Barcelona]]:** A research and education center at the Institute for Advanced Architecture of Catalonia, focusing on digital fabrication. Projects like [[Smart Citizen]] highlight the lab's emphasis on community involvement in environmental monitoring.
@@ -44,7 +44,7 @@ Projects with roots in Barcelona like **[[AKASHA Hub Barcelona]]**, **[[Giveth]]
 
 ### [[Barcelona and the Ecological Transition]]
 
-Barcelona is committed to ecological transition through initiatives like the **[[Assemblea Ciutadana pel Clima de Catalunya]]**, **[[Assemblea pel Clima]]**, and **[[Barcelona Energia]]**, integrating innovative approaches to climate action, renewable energy, and sustainability.
+Barcelona is committed to ecological transition through initiatives like the **[[Ecosystem Map/Local/Assemblea Ciutadana pel Clima de Catalunya]]**, **[[Assemblea pel Clima]]**, and **[[Barcelona Energia]]**, integrating innovative approaches to climate action, renewable energy, and sustainability.
 
 ### [[Spaces and Project Incubators]]
 

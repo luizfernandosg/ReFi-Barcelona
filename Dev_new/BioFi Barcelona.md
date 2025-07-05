@@ -1,166 +1,103 @@
 # BioFi Barcelona
 
-*Finances Biorregionals: Com finançar la transformació del territori des de comunitats locals*
+Patrocinado por Celo Europe, EthicHub, ReFi Mediterranean
 
-Event date: 26-27 May 2024 | Location: Bloc4BCN, Barcelona
+En un moment de crisi climàtica, econòmica i social sense precedents, necessitem repensar radicalment la relació entre les finances i els territoris que habitem. BioFi Barcelona neix com un espai de trobada i experimentació on  explorem junts com podem construir infraestructures financeres que  responguin a les necessitats reals de les comunitats i ecosistemes  catalans.
 
-## About the Event
 
-[Event Information and Overview](BioFi_Barcelona_Flyer.md)
 
-BioFi Barcelona explores bioregional finance mechanisms to support local regenerative projects and connect global funding with territorial intelligence. This two-day event organized by Commons Agency and ReFi Barcelona introduces the concept of Bioregional Financing Facilities (BFFs) in the Catalan context.
+​Un evento introductorio organizado por Commons Agency y ReFi Barcelona que busca explorar cómo las finanzas pueden armonizarse con los sistemas vivos de nuestro territorio. Este evento trasciende el marco financiero convencional, enfocándose en la construcción de infraestructuras para la regeneración biorregional.
 
-## The Ecological Crisis and the Need for Bioregional Finance
+​Finanzas Bioregionales
+​[El idioma de las charlas del evento será español, castellano.]
 
-We find ourselves at a critical turning point for Earth and the financial sector. The planet faces multiple interconnected ecological crises—climate change, biodiversity loss, ecosystem degradation—that form a "polycrisis" with cascading effects across social, economic, and political systems. The current financial system, designed to serve colonialism, imperialism, and capitalism, has produced a massive concentration of resources tied to extractive activities destroying the possibility for life on Earth to continue to thrive.
+En un momento de crisis climática, económica y social sin precedentes, necesitamos repensar radicalmente la relación entre las finanzas y los territorios que habitamos. BioFi Barcelona nace como un espacio de encuentro y experimentación donde exploramos juntos cómo podemos construir infraestructuras financieras que respondan a las necesidades reales de las comunidades y ecosistemas catalanes.
 
-An effective and proportionate response requires urgent, large-scale regeneration of the biosphere rooted in ecological integrity, cultural revitalization, the centering of Indigenous wisdom, and recognition of our planetary interdependence. Rather than merely closing the "nature finance gap" with conventional approaches, we need a fundamental transformation of how financial resources are governed and allocated.
+​[¡Únete al grupo de Telegram del evento en este enlace!]
 
-## Bioregionalism: Harnessing the Intelligence of Place
+​Este evento forma parte de un movimiento global emergente que propone las Finanzas Bioregionales como una pieza fundamental para la transición hacia modelos económicos que respeten los límites planetarios y promuevan la justicia ecológica y social. Conectamos el pensamiento global con la acción local, adaptando conceptos innovadores a la rica tradición cooperativista y de apoyo mutuo de Cataluña.
 
-Bioregionalism offers a promising framework for this transformation, focusing on:
+​Durante estas dos jornadas, trabajaremos en:
 
-- Understanding regions based on ecological and cultural features rather than political boundaries
-- Honoring the unique ecological and cultural intelligence of place
-- Building financial systems that respect natural boundaries and flows
-- Recognizing local communities as essential stewards and knowledge-holders
+​Comprender el marco conceptual de las Finanzas Bioregionales y las Infraestructuras Financieras Bioregionales (BFFs)
 
-This place-based approach creates the foundation for sustainable and regenerative economic systems that work with, rather than against, natural processes. Cases like Salmon Nation demonstrate how bioregional thinking can reimagine relationships between people, place, and economic systems.
+​Aprender de ejemplos reales de mecanismos financieros alternativos que ya funcionan en todo el mundo
 
-## Bioregional Financing Facilities: Connecting Resources and Regeneration
+​Adaptar y contextualizar estas herramientas a nuestro territorio
 
-Bioregional Financing Facilities (BFFs) serve as the connective tissue between financial resources and local regenerative activities. These decentralized structures organize project portfolios for systemic change while enabling capital to reach the people and initiatives best positioned to contribute to global regeneration.
+​Diseñar colectivamente primeros prototipos de soluciones financieras bioregionales para Cataluña
 
-### Four Types of Bioregional Financing Facilities
+​Establecer alianzas entre iniciativas locales y redes globales
 
-1. **Regional Development Financial Institutions**: Provide loans, grants, and investments to support bioregional regeneration
-2. **Revolving Funds**: Create self-replenishing pools of capital for specific regenerative purposes
-3. **Participatory Grantmaking**: Enable communities to collectively decide how financial resources are allocated
-4. **Dedicated Bioregional Asset Managers**: Manage investments with both financial returns and regenerative impacts
+​Esta es una invitación a todas aquellas personas y entidades comprometidas con la transición ecosocial, la economía social y solidaria, y la regeneración territorial. Ya vengas del mundo financiero, del cooperativismo, de los movimientos sociales o de la investigación académica, tu perspectiva es valiosa para reimaginar y reconstruir nuestras finanzas desde la base.
 
-## Creating an Enabling Environment
+​¡Ven a formar parte de esta comunidad pionera que está sembrando las semillas de un sistema financiero al servicio de la vida y el territorio!
 
-Effective BFFs require supportive organizational infrastructure. Bioregional regeneration typically progresses through distinct phases:
+​Estructura del evento
+​Nota: ¡el programa podría sufrir cambios!
 
-1. Initial organizing and relationship building
-2. Collective visioning and planning
-3. Implementation and project development
-4. Scaling and systemic integration
+​Día 1: ¿Qué es BioFi?
+​15:00 - 15:30: Café, bienvenida informal
 
-**Bioregional Hubs** serve as critical coordination centers, bringing together diverse stakeholders and providing the collaborative infrastructure needed for successful BFFs. Examples like The Bioregional Learning Centre in South Devon and The Bioregional Weaving Lab in South East Ireland demonstrate effective approaches to bioregional organizing.
+15:30 - 16:00: Bienvenida y presentación a cargo de los organizadores y del equipo de BioFi Collective (remoto)
 
-## Governance and Capital Allocation
+16:00 - 16:30: ¡Cómo organizar tu biorregión! Presentación de la actividad de Design School for Regenerating Earth "How to organize your bioregion
 
-BFF governance must be fundamentally aligned with regenerative values:
+16:30 - 17:00: Finanzas Regenerativas por Celo Europe
 
-- **Values-based approaches**: Embedding core values in governance structures and processes
-- **Inclusive participation**: Thoughtfully structured stakeholder engagement
-- **Appropriate frameworks and tools**: Effective decision-making processes and accountability mechanisms
-- **Addressing power imbalances**: Governance structures that promote equity
-- **Working with existing authorities**: Navigating relationships with government and traditional entities
-- **Inter-regional coordination**: Building right relationship with other BFFs across regions and scales
+​17.00 - 17.15: Pausa café
 
-## Innovative Financing Mechanisms
+​17:15 - 18:45: Taller participativo y charla por Resilience.Earth: ejemplos prácticos de organización biorregional en Cataluña
 
-BFFs can employ numerous innovative approaches to financing bioregional regeneration:
+​19.00 - 21:00: Conclusión y networking
 
-- **Web3-based eco-credits and DAOs**: Leveraging blockchain technology for transparent and decentralized finance
-- **Digital nature-based currencies**: Creating currencies backed by ecological values
-- **Local market networks and bioregional vouchers**: Strengthening local exchange systems
-- **Participatory grantmaking**: Democratizing capital allocation through approaches like quadratic voting
-- **Retroactive Public Goods Funding**: Rewarding already-completed regenerative work
-- **Mutual credit systems**: Enhancing capital efficiency through obligation clearing
+​Día 2: ¡Organicemos nuestra biorregión!
+​15:00 - 15:30: Café, bienvenida informal
 
-These mechanisms represent a toolkit for bioregional financing that can be adapted to local contexts and needs.
+​15:30 - 16:00: Bienvenida y resumen del Día 1
 
-## Case Studies: Learning from Experience
+​16:00 - 16.30: ​​ReFi Barcelona, ReFi Mediterranean y Regen Coordination
 
-Real-world examples demonstrate the practical application of bioregional finance concepts:
+​16:30 - 17:00: Andrea Farias, Bioregional Knowledge Commons
 
-- **The Edge Prize**: Supporting and connecting regenerative innovators
-- **Regenerate Cascadia**: Coordinated bioregional organizing
-- **Hylo**: Digital platform enabling bioregional coordination
-- **ReCommon**: Regenerative common land trusts
-- **Regenerosity**: Trust-based philanthropic model for grassroots regeneration
-- **Regen Network**: Developing ecological assets and credit systems
-- **Golden Bay and the Wellbeing Protocol**: Participatory approaches to resource allocation
+​17:00 - 17.15: Pausa café
 
-These cases show how different approaches work in varied contexts while revealing common patterns and principles across successful initiatives.
+​17.15 - 19.00: Taller participativo: Laboratorio de Imaginación Biorregional: Co-creando el Futuro Regenerativo de Cataluña
 
-## The Catalan Context
+​19:00 - 21:00: Conclusión y networking
 
-*This section will contain resources about the local context in Catalunya and how BioFi principles can be applied to local regenerative initiatives.*
+​¡TE ESPERAMOS!
+​Únete al grupo de Telegram del evento en este enlace.
 
-Catalunya represents a unique bioregion with distinct ecological features, cultural identity, and economic systems. The BioFi Barcelona event explores how bioregional financing approaches can be tailored to this specific context:
+​Y al grupo de Telegram de ReFi Barcelona aquí.
 
-- How can Catalunya's strong cooperative tradition inform BFF development?
-- What existing regional financial institutions could evolve into BFFs?
-- How might bioregional boundaries be defined within the Catalan context?
-- What regenerative activities are most needed and promising in this bioregion?
+​Juntas, exploraremos cómo las finanzas pueden integrarse con el contexto ecológico y social específico de Cataluña.
+Blasts
+Commons Agency
+May 27, 12:44 PM
+See you today at 15 for the second day of BioFi Barcelona!
+​What a great first day at Bloc4! Looking forward to seeing you all again today as we'll continue to know each other and discuss about how to regenerate our bioregion.
 
-- [Local Ecological and Social Solidarity Economy (ESS) Initiatives]() *(to be created)*
-- [Catalan Bioregional Mapping]() *(to be created)*
-- [Local Financial Structures and Cooperatives]() *(to be created)*
 
-## Next Steps and Call to Action
+User Uploaded Image
+​We'll officially kick things off at 15/15.30, but please feel free to join us whenever you can, and no problem if you didn't attend the first day.
 
-Building bioregional finance requires collective action across sectors:
+We'll have a participatory workshop at 17, followed by drinks&networking from 19 onwards.
 
-- **Financial Institutions**: Incorporate bioregional thinking into investment strategies
-- **Policymakers**: Develop enabling policy frameworks
-- **Philanthropic Organizations**: Provide catalytic capital and support capacity building
-- **Bioregional Organizations**: Strengthen bioregional organizing and relationships
-- **Researchers**: Investigate priority areas in bioregional finance
-- **Technology Developers**: Create tools and platforms for bioregional coordination
+​See you later!
 
-Together, we can transform our financial systems to support thriving bioregions and a regenerative future.
+Commons Agency
+May 23, 12:00 PM
+¡El evento empieza este lunes!
 
-## BioFi Book Resources
+User Uploaded Image
+​BioFi Barcelona está a punto de comenzar, y será un espacio único para compartir ideas, aprender junt@s y co-crear soluciones financieras regenerativas para nuestros territorios.
 
-### Introduction and Overview
-- [Foreword](BioFi%20Book/BioFi%20Book%20-%20Foreword.md)
-- [Executive Summary](BioFi%20Book/BioFi%20Book%20-%20Executive%20Summary.md)
-- [Introduction](BioFi%20Book/BioFi%20Book%20-%20Introduction.md)
-- [Key Messages](BioFi%20Book/BioFi%20Book%20-%20Key%20Messages.md)
+​¿Tienes alguna pregunta, inquietud o necesidad especial? ¡Háznoslo saber! Estamos aquí para ayudarte.
 
-### Core Concepts
-- [The Case for Bioregional Financing Facilities](BioFi%20Book/BioFi%20Book%20-%20The%20Case%20for%20Bioregional%20Financing%20Facilities.md)
-- [Innovative Mechanisms for Financing Bioregional Regeneration](BioFi%20Book/BioFi%20Book%20-%20Innovative%20Mechanisms%20for%20Financing%20Bioregional%20Regeneration.md)
-- [BFF Governance and Capital Allocation](BioFi%20Book/BioFi%20Book%20-%20BFF%20Governance%20and%20Capital%20Allocation.md)
+​
 
-### Implementation and Examples
-- [Designing, Building, and Implementing BFFs](BioFi%20Book/BioFi%20Book%20-%20Designing%2C%20Building%2C%20and%20Implementing%20BFFs.md)
-- [Case Studies](BioFi%20Book/BioFi%20Book%20-%20Case%20Studies.md)
-- [The Enabling Environment for BFFs](BioFi%20Book/BioFi%20Book%20-%20The%20Enabling%20Environment%20for%20BFFs.md)
+​Únete al grupo de Telegram para no perderte nada:
+https://t.me/biofibcn
 
-### Conclusion and Next Steps
-- [Conclusion](BioFi%20Book/BioFi%20Book%20-%20Conclusion.md)
-- [Next Steps and Call to Action](BioFi%20Book/BioFi%20Book%20-%20Next%20Steps%20and%20Call%20to%20Action.md)
-- [Glossary and References](BioFi%20Book/BioFi%20Book%20-%20Glossary%20and%20References.md)
-
-### Complete PDF Resource
-- [Bioregional Financing Facilities 2024 (PDF)](BioFi%20Book/Bioregional%20Financing%20Facilities%202024.pdf)
-
-## Catalan Context
-
-*This section will contain resources about the local context in Catalunya and how BioFi principles can be applied to local regenerative initiatives.*
-
-- [Local Ecological and Social Solidarity Economy (ESS) Initiatives]() *(to be created)*
-- [Catalan Bioregional Mapping]() *(to be created)*
-- [Local Financial Structures and Cooperatives]() *(to be created)*
-
-## Event Materials
-
-*This section will be populated with presentations, notes, and outcomes from the event.*
-
-- [Workshop Materials]() *(to be created)*
-- [Participant Contributions]() *(to be created)*
-- [Next Steps in Catalunya]() *(to be created)*
-
-## Related Global Initiatives
-
-*This section will connect the local BioFi efforts to global frameworks and examples.*
-
-- [Global BioFi Network]() *(to be created)*
-- [Case Studies from Other Bioregions]() *(to be created)*
-- [Regenerative Finance Models]() *(to be created)*
+​MIRO BOARD

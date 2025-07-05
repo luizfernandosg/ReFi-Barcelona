@@ -1,4 +1,4 @@
-# ReFi Barcelona: A Bioregional Approach
+# A Bioregional Approach for ReFi BCN
 
 - The publishing of the BioFi book in 2024 and the emergence of its community has opened a new itersectional space between novel financial mechanisms and localy based practice and regenerative work.
 - The aspect on focusing on how to establish financially infrastructures to bring global capital flows to localities (based bioregionally) has made it highly aligned with the field of ReFi (Regenerative Finance), and establishes and nourishes new articulations with groups that espouse the same values and principles - while implying them in practice in their bioregions, that is the space for truly regenerative work to be done.

@@ -13,7 +13,7 @@ The **Generalitat de Catalunya** is the autonomous government of Catalonia, fund
 
 **Notable Initiatives:**
 
-- **[[Assemblea Ciutadana pel Clima de Catalunya]]**: Engages citizens directly in climate action, fostering transparency and community involvement.
+- **[[Ecosystem Map/Local/Assemblea Ciutadana pel Clima de Catalunya]]**: Engages citizens directly in climate action, fostering transparency and community involvement.
 - **[[Departament d'Acció Climàtica, Alimentació i Agenda Rural]]**: Focuses on integrating environmental sustainability with socio-economic support, highlighting the importance of organic farming and local food networks.
 - **[[Economia Social]]**: Promotes a social, democratic, and inclusive economic model, emphasizing cooperative values and social justice.
 
@@ -43,7 +43,7 @@ The **Ajuntament de Barcelona** governs the city, focusing on sustainability, in
 **Notable Initiatives:**
 
 - **[[Àrea d'Urbanisme, Transició Ecològica, Serveis Urbans i Habitatge]]**: Ensures quality public spaces and promotes sustainable mobility, emphasizing urban resilience.
-- **[[Assemblea Ciutadana pel Clima de Catalunya]]**: Utilizes a deliberative process to integrate citizen demands into municipal climate policies, focusing on energy, mobility, and consumption.
+- **[[Ecosystem Map/Local/Assemblea Ciutadana pel Clima de Catalunya]]**: Utilizes a deliberative process to integrate citizen demands into municipal climate policies, focusing on energy, mobility, and consumption.
 - **[[Barcelona+Sostenible]]**: Engages a network of entities in promoting sustainability, aiming to create a sustainable urban model that balances environmental protection, social equity, and economic viability.
 - **[[Barcelona Energia]]**: Dedicated to renewable energy, encouraging energy self-consumption through support for photovoltaic installations.
 - **[[DECODE]]**: Enhances data sovereignty and privacy using decentralized technologies, fostering innovation and democratic data governance.

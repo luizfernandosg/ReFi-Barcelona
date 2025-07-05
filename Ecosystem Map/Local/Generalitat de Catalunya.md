@@ -12,7 +12,7 @@ For the ReFi Barcelona, the Generalitat's initiatives in environmental sustainab
 
 ## Some initiatives from the Generalitat
 
-- **[[Assemblea Ciutadana pel Clima de Catalunya]]**: A citizen assembly organized by the Generalitat de Catalunya to collaboratively address climate change, involving 100 citizens chosen by lottery to propose actionable solutions, using the [[Archive/00 Buffer - check later/Decidim]] platform for wider engagement and transparency.
+- **[[Ecosystem Map/Local/Assemblea Ciutadana pel Clima de Catalunya]]**: A citizen assembly organized by the Generalitat de Catalunya to collaboratively address climate change, involving 100 citizens chosen by lottery to propose actionable solutions, using the [[Archive/00 Buffer - check later/Decidim]] platform for wider engagement and transparency.
 - **[[Departament d'Acció Climàtica, Alimentació i Agenda Rural]]**: A pivotal department of the Generalitat de Catalunya focusing on climate action, sustainable agriculture, and rural development, aiming to integrate environmental sustainability with socio-economic support through initiatives like greenhouse gas reduction, promotion of organic farming, and strengthening local food networks.
 - **[[Economia Social]]**: Promoted by the Departament d’Empresa i Treball de the Generalitat de Catalunya, this initiative seeks to foster a social, democratic, and inclusive economic model through the social and cooperative economy. It supports democratic businesses, quality employment, sustainable growth, and community cohesion, emphasizing cooperative values and social justice in economic activities.
 

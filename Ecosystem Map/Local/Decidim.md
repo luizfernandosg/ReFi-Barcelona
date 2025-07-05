@@ -23,7 +23,7 @@ The platform's effectiveness is highlighted by its role in co-producing Barcelon
 ## Some initiatives using Decidim
 
 - **[[Assemblea pel Clima]] in Barcelona**: An initiative by the [[Ajuntament de Barcelona]] using deliberative democracy (lottery} to gather citizen proposals on climate emergency solutions, focusing on energy, mobility, and waste management.
-- **[[Assemblea Ciutadana pel Clima de Catalunya]]**: Organized by the [[Generalitat de Catalunya]], it involves 100 randomly selected citizens discussing and proposing solutions to climate challenges.
+- **[[Ecosystem Map/Local/Assemblea Ciutadana pel Clima de Catalunya]]**: Organized by the [[Generalitat de Catalunya]], it involves 100 randomly selected citizens discussing and proposing solutions to climate challenges.
 - **[[Decidim Barcelona]]**: Barcelona's use of **Decidim** for public engagement in policy-making, such as the Superblocks program and consultations on science policy, promoting sustainable urban and environmental policies.
 
 ## References
