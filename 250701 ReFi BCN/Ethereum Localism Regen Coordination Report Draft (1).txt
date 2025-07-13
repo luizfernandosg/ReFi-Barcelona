@@ -1,0 +1,283 @@
+﻿Gitcoin 3.0 Sensemaking Report: Ethereum Localism x Regen Coordination 
+Brief
+https://gov.gitcoin.co/t/gitcoin-grants-24-strategic-sense-making-framework/20865 
+* Purpose: Identify Ethereum’s most meaningful, urgent, and solvable problems through structured community research.
+* Approach: Contributors write reports analyzing a problem’s significance, fundability ($50K+), and whether Gitcoin can uniquely help solve it.
+* Criteria: Problems must offer genuine user impact, address root causes (not hype), and pass a “satisfaction test” six months later.
+* Output: The best sensemaking reports define domains for GG24 and guide which campaigns get executed.
+Report Requirements: Each sensemaking report must include (800-1,200 words total)
+TLDR
+* Ethereum Localism is an emerging opportunity space that can address meaningful mass adoption by embedding Web3 tools (e.g., stablecoins, payments, onchain governance) into local communities and economies—offering real-world legitimacy and utility beyond speculation, aligning with Gitcoin’s mission.
+
+* Led by Regen Coordination with input from stakeholders across the ecosystem, this sensemaking report explores the Ethereum Localism landscape, how it is taking shape, and how Gitcoin could play a catalytic role.
+
+* Following subsequent guidance from Gitcoin, we propose a co-design process to collaboratively launch an Ethereum Localism DDA for GG24 and beyond — in alignment with the Credible Neutrality in Dedicated Domain Allocation research.
+
+Overview
+This sensemaking report explores Ethereum Localism as a high-leverage opportunity space for Gitcoin 3.0—one that can help Ethereum address core challenges such as durable and meaningful adoption, post-speculative utility, relevance beyond crypto-native circles, and real-world legitimacy. Ethereum Localism offers a strategic pathway for addressing these challenges by aiming to embed Ethereum infrastructure into the fabric of local communities and economies across the globe.
+The report explores how grassroots adoption, institutional interest, and ecosystem maturity are converging—creating a timely opening for Ethereum Localism to scale. It is written from the perspective of Regen Coordination, a collaborative network of organizations stewarding regenerative public goods funding and local ecosystem development across the Web3 space. Over the past year, Regen Coordination has supported local, bioregional, and global funding rounds—including BioFi Pathfinders, ReFi Mediterranean, Regen Rio de Janeiro, Regen Coordination Global, and more—collectively raising and distributing over $370,000 to grassroots projects. Through these efforts, we’ve helped communities use blockchain infrastructure to coordinate capital, measure impact, and build regenerative economies onchain.
+Following this sensemaking report, we propose a co-design process with Gitcoin, OpenCivics and other key relevant partners to scope a Dedicated Domain for Ethereum Localism. Regen Coordination would serve as a core founding partner (in alignment with Benjamin Life’s emerging DDA framework) with an intention to support 3–5 local pilots during GG24, pilot new methodologies (e.g. Karma GAP + Prosperity Pass + TVF), and building toward a systematized and scalable model for 10+ rounds in 2026. 
+https://blog.refidao.com/ethereum-localism-x-regen-coordination/ 
+  
+
+Problem & Impact (400-500 words)
+   * What specific Ethereum problem are you addressing?
+   * Why is this urgent and significant right now?
+   * What evidence supports the importance of this problem?
+   * Meaning Check: How do you know this matters deeply to users, not just captures attention or generates buzz?
+Ethereum Localism[a]
+In the context of identifying Ethereum’s most meaningful, urgent, and solvable problems, Ethereum Localism can help to address Ethereum’s most significant long-term challenge: achieving meaningful mass adoption. For Ethereum to succeed as a global coordination layer, it needs to onboard billions of users. This cannot be the short-term speculation driven adoption, but rather a deep, systemic integration of the technology into the daily operations of our societies and real world economies. Ethereum Localism offers a direct path to this goal by embedding Ethereum-based infrastructure into the fabric of local communities and economies worldwide, creating lasting adoption by solving real problems for real people.
+This strategy can drive adoption on two critical fronts:
+   1. Infrastructural Adoption: Communities and local economies integrate Ethereum-based tooling for more transparent and efficient governance, coordination, and resource management. This creates durable, non-speculative utility.[b]
+
+   2. Financial Adoption[c][d]: Communities adopt onchain finance (stablecoins & local payment systems, DeFi, grant mechanisms, impact credits), creating pathways to bring vast new sources of people and capital onchain.
+This approach also directly confronts the negative public perception that Web3 is only useful for speculative finance. By powering tangible, positive outcomes in local communities and economies, we can prove how Ethereum technology is driving real-world impact across the globe.
+Why is this urgent and significant right now?
+The urgency for Ethereum Localism is driven by a confluence of macro trends creating a unique opening for localism. We are witnessing the increasing fragility of globalized systems—supply chain disruptions, economic volatility, escalating climate breakdown, and the deep consolidation of power and wealth. Widespread budget cuts and shifting public service models are further exposing cracks in current systems, highlighting the need for resilient, locally-driven alternatives.
+At the same time, Ethereum itself is more ready than ever for mainstream adoption. Usability and UX barriers that once hindered growth are rapidly being solved, with cheap L2 transactions and highly usable "web 2.5" applications now live. The critical bottleneck is now the availability of usable real-world use cases with clear product-market fit. The Ethereum Localism community aims to support these emerging use cases, embedding blockchain-based infrastructure into the daily operations of local communities and economies worldwide. 
+What evidence supports the importance of this space?
+1. Explosive Growth in Localised Web3 Adoption
+As of April 2025, Celo’s MiniPay wallet has surpassed 7 million wallet activations across over 50 countries worldwide and with seamless on/off-ramps in 35+ local currencies (Celo Forum, Q4 2024). In Africa, Celo’s regional DAOs and partners have onboarded thousands of developers and community members, with local stablecoins (like cUSD, cKES, cGHC) and payment solutions filling gaps left by traditional financial institutions (Celo Africa DAO Q1 2025). In South America, Communities like ReFi Medellin, Celo Colombia, and Regen Rio are pioneering the adoption of $cCOP (onchain Colombian Peso) and $cREAL (onchain Brazilian Real) as well as developing localized payment solutions and onboarding local people, organizations, and merchants—realizing the vision of bringing entire local economies onchain.
+This rapid adoption of Web3 technologies —especially across emerging and underserved markets—demonstrates both the scale of the opportunity and the urgency of the problem Ethereum Localism aims to solve. According to the World Bank, over 1.4 billion adults globally remain unbanked. Web3 solutions can onboard users who have never had access to traditional banking, providing them with digital identity, savings, and credit for the first time.
+2. Grassroots ecosystem growth + demonstrated funder interest
+The growth of ReFi local nodes, Greenpill Chapters, local hackathons, university blockchain clubs, regional DAOs and many other locally focused grassroots web3 projects, demonstrates a bottom-up demand for building and using Web3 tools tailored to local needs. These projects generate not just user adoption, but ecosystem-building, capacity development, and local leadership.
+This momentum is matched by significant funder interest with Regen Coordination supported local, bioregional and global funding rounds (e.g., Regen Coordination, BioFi Pathfinders, ReFi Mediterranean, Rio de Janeiro, Web3 For Universities) having raised over $370,000 to projects in the past year, with thousands of unique donors participating.
+3. Local Government and Institutional Interest[e][f][g][h]
+Communities are beginning to experiment with blending crypto capital with local philanthropic, cooperative, and municipal funding pools. For example, Zazelenimo’s pilot for urban greening in Split, Croatia, uses a 3:1 municipal matching model to fund community-driven projects with Ethereum-aligned infrastructure. Kesennuma Hackatsuon in Japan is running a Civic Tech hackathon in collaboration with the local government to build solutions that better serve the local community and with a goal to bring tax dollars onchain.
+If either of the above two pilots are successful, they serve as models that can be adapted globally. Global municipal budgets represent an estimated $6 trillion in annual spending yet still rely on 20th-century rails. By providing systems to help municipal governments allocate capital more effectively, Ethereum can tap into a massive market, driving adoption at an institutional scale.
+4. Endorsements from Ecosystem Leaders
+Vitalik Buterin, co-founder of Ethereum, has publicly praised driving real-world adoption and local financial inclusion, stating:  “Improving worldwide access to basic payments/finance has always been a key way that Ethereum can be good for the world, and it’s great to see @Celo getting traction.” (CoinDesk, Sep 2024)
+Kevin Owocki, founder of Gitcoin, has also backed Ethereum Localism and created notable online traction and attention. The meme of Ethereum Localism has become an attractor. 
+      * GFEL Boulder (credit to Open Civics and Ethereal Forest)
+      * Greenpill Pod season
+      * Ethereum Localism Book
+      * Ethereumlocalism.xyz
+  
+
+Regen Coordination
+The future of Ethereum depends on decentralized coordination at scale.
+A persistent challenge within Ethereum’s decentralized culture is the tendency toward fragmentation and siloed efforts. While decentralization is a core strength—enabling permissionless innovation and resilience—it can also result in duplicated work, diminished collective impact, and difficulty aggregating resources or presenting a unified front to funders. Without intentional structures for coordination and collaboration, the ecosystem’s diverse communities, DAOs, and projects often operate in isolation.
+
+
+Regen Coordination directly addresses this by serving as a connective tissue across the regen and ethereum localism ecosystem. Inspired by the “Coordi-nations” framework—a model for voluntary, polycentric, and values-aligned cooperation—Regen Coordination weaves together a constellation of cosmo-local Web3 regeneration networks, including ReFi Local Nodes, Greenpill Chapters, BioFi, Ma Earth, Bloom Network, AgroforestDAO, and others. By clustering initiatives into coherent portfolios at local, bioregional, and global scales, Regen Coordination makes the decentralized landscape more legible and compelling to funders and institutions. This approach increases fundraising potential, collective bargaining power, and fosters knowledge exchange, mutual support, and shared standards. Instead of dozens of isolated projects vying for attention, Regen Coordination presents a unified, credible, and scalable pathway for regenerative finance—turning fragmentation into networked strength and resilience. This model is already bearing fruit, as seen in the successful orchestration of global and bioregional funding rounds, the adoption of shared impact measurement frameworks[i][j], and the growing reach and recognition of Regen Coordination.
+  
+[k][l][m]
+The convergence of Ethereum Localism and Regen Coordination demonstrates a compelling path to meaningful adoption. By embedding Ethereum in local economies and building bridges across fragmented networks, we are scaling trust, collaboration, and real-world outcomes.
+Bridging the Narrative and Partnership Gap: Moving Beyond the Web3 Bubble
+A deeper challenge facing Regen Coordination, Gitcoin and the broader Ethereum ecosystem at large is how to move beyond reliance on internal, crypto-native sources of capital and toward meaningful partnerships and co-funding with traditional funders, governments, NGOs, and institutions—as well as non-Web3-based local communities and organizations. Achieving systemic impact and mainstream adoption requires not only technical innovation, but also the ability to translate and build bridges with actors and communities from different backgrounds and cultures, and who may operate under different norms and accountability structures.
+
+
+One of the most significant barriers in this process is the cultural disconnect between Web3 communities and these external partners. The memes, technical jargon, metrics, and narratives that inspire action and capital formation within Web3 may be confusing or alienating to those outside the crypto space. To unlock the full potential of this domain, we must invest in identifying the strategies, pathways and narratives that make our work legible, credible, and compelling to external stakeholders. This requires further sensemaking, research, and validation to identify the funding pathways, frameworks, and narratives [n][o][p][q]that are resonating with governments, municipalities, philanthropic institutions, NGOs, and local communities, and then spreading this knowledge across our ecosystem. This work will be essential for building trust, unlocking new funding, and realizing the promise of these movements at scale—far beyond the current crypto ecosystem niche.
+Sensemaking Analysis (200-400 words)
+      * What sensemaking tools did you use? 
+      * What sources did you use for this analysis? I.e. blog posts, ecosystem leaders, etc.
+      * How did you aggregate your data/findings? 
+Regen Coordination’s approach to sensemaking is rooted in active experimentation, continuous iteration, and deep engagement with the communities and networks we serve. 
+Multi-Stakeholder Engagement and Network Intelligence
+Regen Coordination acts as a connective bridge across projects, communities, and networks—facilitating shared learning, resource pooling, and the emergence of common strategies. Our spaces for structured dialogue, including the Regen Coordination Forum Hub, weekly coordination council[r] calls, and direct engagement with local communities, DAOs, and ecosystem leaders—including Celo, Gitcoin, Ma Earth, ReFi DAO, Greenpill Network, Open Civics, BioFi, Bloom Network, and AgroforestDAO[s][t]—help form collective intelligence, develop shared narratives, align strategies, and position our work for deeper funding alignment. Emerging resources like our Local ReFi Toolkit ensure that learnings are captured and shared back into the network, supporting ongoing collective development and capacity building.
+Learning Through Action and Reflection
+Each funding round we lead or support is treated as a sensemaking exercise—an opportunity to gather data, test hypotheses, and refine our understanding of the ecosystem’s needs, challenges, and opportunities. Every major round is followed by a detailed retrospective to capture not only outcomes and statistics, but also key learnings, challenges, and opportunities for improvement —  GG21 Regen Coordi-Nation Genesis, GG22 BioFi Pathfinders, GG23 AI ImpactQF + ReFi Mediterranean, Regen Rio de Janeiro. Within these rounds we have led implementation of new onchain impact reporting with Common Approach + Karma GAP, piloted ImpactQF for more equitable capital allocation, experimented with Tunable Quadratic Funding and Signal Boosting and much more. We systematically collect feedback from participants and the wider community (e.g., GG23 Feedback, Web3 Tooling Survey, etc…), ensuring that the voices of grantees and community partners directly inform our next steps.
+At the same time, our team maintains strong ties with leading ecosystem funders and is deeply embedded in the operational realities of blockchain public goods (e.g., through direct core team involvement in Celo Public Goods). This gives us specialized insight into the evolving needs and priorities of both funders and builders, allowing us to design programs that are impactful and aligned with ecosystem partners.
+Emergent Problem Spaces
+Through this ongoing process, several major problem spaces have emerged as central to our work:
+      * Impact Measurement & Reporting: The need for transparent, credible, and scalable systems to measure and communicate the impact of diverse, decentralized projects. This led to the development and deployment of onchain impact reporting (Common Approach, Karma GAP) and the pioneering of ImpactQF, which blends quadratic funding with verified impact data.
+      * Web3 Capital Retention: Addressing the challenge of capital “leakage” by designing mechanisms that encourage local communities to retain and circulate value within Web3 rails, fostering regenerative blockchain economies. Effective systems for tracking Total Value Flowed (TVF) help allocate ecosystem grant capital more effectively, prioritizing communities that strengthen Web3 capital retention and circulation. To support this, we are also initiating a ‘Regional Web3 Adoption SWOT Analysis’—mapping strengths, weaknesses, opportunities, and threats for Web3 adoption in different regions, including factors like stablecoin accessibility, local fiat onramps, and culturally adapted payment tools.[u]
+      * Tooling, Accessibility, and UX: Recognizing that mainstream adoption depends on intuitive, accessible tools, we actively collaborate with infrastructure partners to improve usability, develop multilingual resources, and support local leaders with guides, toolkits, and playbooks.
+By continuously synthesizing insights from diverse networks and local contexts, Regen Coordination provides essential sensemaking capacity for guiding the evolution of Ethereum Localism and effective capital allocation within this domain.  Our approach ensures that the real needs, opportunities, and challenges faced by communities are surfaced and addressed, enabling the ecosystem to adapt and grow in ways that are grounded in lived experience. This ongoing cycle of learning and reflection not only helps identify where capital can have the greatest impact, but also builds the trust and shared understanding necessary for large-scale, strategic resource allocation. As a partner within the Gitcoin 3.0 ecosystem, Regen Coordination is committed to realizing the vision of embedding blockchain infrastructure into local communities and economies worldwide, and ensuring that the allocation of capital is both strategic and responsive to the wider ecosystem’s most pressing needs.
+Domain Landscape & Mapping (200–400 words)
+Purpose: This proposed new section aims to ensure a holistic, ecosystem-wide perspective that acknowledges prior and parallel work, and surfaces opportunities for further partnership, federation, and shared leadership in the domain.
+      * Who are some of the key stakeholders, organizations, and initiatives in this domain?
+      * What are the most relevant resources, convenings, and knowledge assets in this domain? (e.g. books, wikis, shared resource libraries etc..)
+      * How do these actors and resources interrelate? What gaps, overlaps, or tensions exist?
+      * Identify key existing collaborations, federations, and points of intersection or divergence.
+      * Identify areas of synergy, duplication, or potential conflict that should be acknowledged in any domain strategy.
+Ethereum Localism is an evolving movement composed of diverse organizations, networks, initiatives and resources working to bridge blockchain innovation with place-based community empowerment. To explore collaborative and inclusive paths forward for this domain's governance and strategic alignment, it is essential to identify the primary global actors and collaborative resources that could help to provide legitimacy, expertise, and connective tissue for this domain.
+The following is an initial and limited list of some of the most immediately relevant global actors and resources for this domain—further mapping, exploration, and sensemaking will be needed as the ecosystem evolves and as new actors emerge who express interest and relevant expertise in this domain.
+Key Global Networks & Organizations:
+      * Regen Coordination: Facilitate network weaving, funding rounds, and sensemaking across regenerative web3 communities.
+      * ReFi DAO & Greenpill Network: Each support a global network of local nodes / chapters advancing regenerative finance and Ethereum Localism.
+      * Ma Earth, Bloom Network, AgroforestDAO, Kolektivo: Each brings unique expertise in ethereum aligned ecological regeneration, community organizing, and decentralized funding.
+      * EthereumLocalism.xyz: A community of practitioners and builders co-designing principles, tooling, and narratives for locally grounded Ethereum ecosystems.
+      * OpenCivics & Ethereal Forest: Pioneers in protocol design, convening, and knowledge commons for decentralized governance and localism.
+      * BioFi Project: Supports the design and implementation of Bioregional Financing Facilities (BFFs) to channel capital into regenerative economies at the bioregional scale.
+      * Celo Regional DAOs: Autonomous, community-driven chapters that localize Celo’s mission—hosting events, incubators, mentorship, and local coordination hubs.
+      * Borderless / Web3 for Universities Program: Cultivates Web3 developer ecosystems across African universities through tech clubs, hackathons, and curriculum support.
+      * Token Engineering Commons: Advances the science and practice of token engineering, with relevance for local economic design.[v]
+Critical Resources & Convenings:
+      * Key Books: Ethereum Localism, Pathways to Regeneration,  MyCoFi, Grassroots Economics, Onchain Impact Networks.
+      * EthereumLocalism.xyz Wiki: A living knowledge base documenting the principles, projects, and resources of the Ethereum Localism movement.
+      * Regen Coordination Resources Hub & Local ReFi Toolkit - https://www.regencoordination.xyz 
+      * The Open Protocol Library: A shared repository of open-source governance and coordination protocols.
+      * Bioregional Knowledge Commons: Collaborative spaces for sharing place-based knowledge and best practices.
+      * The Infinite Front Porch[w] & Open Facilitation Library: Resources for community convening, facilitation, and participatory governance.
+      * Community Rule 2.0: Tools and templates for community-driven rulemaking and governance.
+      * Key Events: Bioregional convenings (e.g., Regenerate Cascadia), landscape hub cultivator programs, and global/local hackathons.[x]
+Note: While the Ethereum Localism movement is ultimately realized through thousands of local and bioregional initiatives, this section focuses on the global actors and resources most relevant for domain-level participation and governance. Mapping every local / regional Ethereum Localism aligned organization is beyond the scope of this report, but the domain’s legitimacy and effectiveness will depend on its ability to inclusively engage and federate these local actors through the global networks and infrastructures described.
+Interconnections, Gaps & Opportunities
+The global actors and resources shaping the Ethereum Localism domain are increasingly interlinked through collaborative funding rounds, shared knowledge platforms, and cross-network convenings. This growing web of relationships is fostering greater federation, mutual support, and the co-creation of shared standards and infrastructure. Yet, the landscape is not without its challenges: there are still notable gaps in coordination, underrepresentation of certain regions, limited realized interoperability between knowledge commons, and a need for more inclusive governance processes. Overlaps also exist, with multiple groups developing similar tools or convening parallel communities—presenting both the risk of duplication and the opportunity for deeper collaboration. By intentionally mapping and acknowledging these dynamics, the domain can move toward a more federated, collaborative, and impactful future—one that leverages the strengths of all participants, bridges silos, and avoids extractive or exclusionary approaches.
+Gitcoin's Unique Role & Fundraising (200-400 words)
+      * How can Gitcoin uniquely help solve this problem?
+      * Why does a network better solve this than by existing organizations?
+      * Fundraising Reality Check: Can you raise $50K+ for this domain? Who are the likely sponsors?  Have any of them committed already?
+Gitcoin’s mission to empower communities to fund what matters is in direct alignment with the vision of Ethereum Localism. With its legitimacy, expertise, and brand recognition, the Gitcoin community is uniquely positioned to help catalyze this next wave of adoption. 
+Why a Network Approach?
+The strength of Impact Networks lies in the density and quality of relationships: clusters of trust, mutual accountability, and resource flow that bridge otherwise isolated efforts. Scaling Ethereum Localism requires a network-driven approach, not a top-down hierarchy. Local entities need to retain autonomy while at the same time collaborating in larger global communities for shared goals. 
+Regen Coordination’s “Coordi-nation” approach weaves together cosmo-local regenerative networks—like ReFi DAO, Greenpill Network, BioFi, Ma Earth, Bloom Network, and AgroforestDAO—who are each supporting regional nodes and chapters. Through shared initiatives, resources and collaborative funding rounds, these networks are forming a cohesive, adaptive ecosystem that connects local action with global coordination. This approach enables knowledge, resources, and strategies to flow across boundaries, ensuring that local innovations can scale and that global learnings are grounded in real-world contexts. The result is a living, evolving network infrastructure that is uniquely suited to address the complex, place-based challenges of Ethereum Localism—empowering communities at every level while amplifying their collective impact.
+Fundraising Check
+Raising $50K+ for this domain is not only feasible—it’s already been realized. Regen Coordination has a proven track record in this area, having raised and distributed over $370,000 through previous rounds in just the past year. Looking ahead, a budget request of up to $75,000 is being prepared by CeloPG specifically for an Ethereum Localism DDA, pending a community vote by the Celo community treasury in the coming weeks. Additional funder interest is anticipated from the Ethereum Foundation, Blockchain for Good (B4G), Ma Earth, and other ecosystem treasuries.
+At the same time, our fundraising strategy aims to go beyond crypto-native capital alone, blending also with traditional sources of local and global funding. We are pursuing this through two key pathways:
+      1. Local Matching on Matching:
+A core requirement for participating will be demonstrating the ability to raise local matching funds from municipalities, NGOs, or community sponsors. These funds can then be multiplied through Gitcoin and DDA matching—stacking public goods funding from multiple sources. This approach helps ensure local buy-in, increases the impact per dollar, and strengthens the case for broader institutional partnerships.
+
+      2. Global Sponsors:
+While Ethereum Localism is a powerful meme within the Web3 ecosystem, attracting global funding from outside crypto—philanthropy, NGOs, development finance institutions—will require new narratives, credible reporting, and significant investment in relationship-building. Beyond GG24, Regen Coordination plans to invest in identifying and building these new partnerships.
+Success Measurement & Reflection (200-300 words)
+         * What specific outcomes will show success within 6 months?
+         * How will we measure genuine impact beyond just activity metrics?
+         * Satisfaction Test: What will make the Ethereum community genuinely glad we funded this domain long-term?
+         1. Net inflows of new capital
+         2. Strong onchain TVF of the capital
+What specific outcomes will show success within 6 months?
+Within the first six months, success will be demonstrated by 3-5 local communities running their own regional funding rounds, each leveraging matching from diverse sponsors. These rounds will not only allocate capital, but also pilot and refine mechanisms for on-chain impact reporting and round design. We expect this to catalyse measurable increases in awareness, engagement, and adoption of ReFi Web3 tools, as well as the implementation of new local solutions—such as stablecoins, payment rails, and lending pools—tailored to community needs.
+Ultimately, success will be measured by supporting the creation of regenerative local economies where Web3 tools are not just a one-time intervention, but an integrated, value-generating part of daily life.
+  
+
+How will we measure genuine impact beyond just activity metrics?
+Moving beyond surface-level activity, we will assess genuine impact by tracking progress toward Regen Coordination’s three North Star outcomes:
+         1. Increase Awareness, Engagement, Adoption, and Development of ReFi Web3:
+Metrics: Growth in active users, builders, and projects; new integrations of ReFi tools.
+
+         2. Increase Awareness, Adoption, Development, and Financial Activity on Celo, Ethereum & the wider ecosystem:
+Metrics: On-chain financial activity (Total Value Flowed), number of local transactions, and retention of capital within Web3 rails.
+
+         3. Directly Create or Catalyse Local Ecological, Social, and Economic Impact:
+Metrics: Number and diversity of funded projects, qualitative case studies, and evidence of real-world outcomes (e.g., ecological restoration, social empowerment, economic resilience).
+A key innovation will be the measurement of Total Value Flowed (TVF)—not just tracking how much capital is distributed, but how it circulates and is retained within local Web3 networks. Rather than grant capital being immediately offramped, TVF focuses on the ongoing movement of value through local payment systems, quadratic funding rounds, credit pools, and stablecoins. This approach helps us understand and optimize for sustainable web3 economic activity and long-term ecosystem health.
+<link to the TVF Research Report Draft>
+To operationalize TVF measurement, Regen Coordination is piloting a suite of V1 tools and methodologies:
+            * Regionalized Solutions Checklist & SWOT Analysis:
+To maximize Web3 capital retention potential within each local context, we will develop a Regionalized Solutions Checklist—a structured framework for assessing the presence and adoption of key Web3 infrastructure such as local stablecoins, on/off-ramp solutions, locally adapted payment rails etc... This checklist will be paired with a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis for each participating region or node, providing a nuanced understanding of local conditions, unique opportunities, and potential risks. Together, these tools will help identify ecosystem strengths and gaps, inform targeted funding and technical support, and ensure that resources are allocated where they can drive the greatest and most sustainable impact.
+            * Prosperity Pass - pass.celopg.eco
+Prosperity Pass enables individuals to link multiple wallets to a single identity (using Proof-of-ID Badges such as Self.xyz for verified unique personhood). The platform then scans all wallet addresses to assess onchain data against a collection of badges—such as number of transactions, Gitcoin donation history, eco-credit retirements, membership in various onchain communities and much more. Each badge has a level, allowing for nuanced scoring of a person’s activities and value to different ecosystems. By aggregating these profiles at the community level (e.g., all registered members of Celo Colombia), we can represent and analyze the onchain economy of entire communities, and measure how funding programs or initiatives drive new activity, users, and TVF/TVL across protocols.
+Custom dashboards will aggregate and visualize TVF metrics across regions, projects, and funding rounds, making flows and leakages (e.g., offramping to centralized exchanges) transparent and actionable.
+            * Karma GAP Integration & On-chain Activity Tracking:
+Karma GAP will enable both individuals and organizations to be tracked for onchain engagement e.g. by linking smart contract addresses for specific community activities—such as tree planting, local QF rounds, or lending pools—and auto-pulling key metrics like transaction volume, new addresses, and net asset inflows directly into data dashboards. When integrated with Prosperity Pass, we can create a mapping of individual, organizational, and community level wallet clusters to enable granular, real-time tracking and analysis of how community initiatives and funding programs translate into onchain economic activity, TVF, and ecosystem growth—offering a holistic, data-driven perspective on ecosystem impact.
+This granular, regionally attuned TVF analysis will serve to inform funding decisions and ecosystem support, ensuring that capital is not just distributed, but meaningfully recirculated and multiplied within local economies. By pioneering these measurement tools, Regen Coordination aims to set a new standard for impact evaluation in Web3—one that prioritizes real, regenerative value creation over short-term activity metrics, and empowers communities to build lasting economic resilience.
+  What will make the Ethereum community genuinely glad we funded this domain long-term?
+→ strong net inflows of new capital from diverse sources (municipalities, NGOs, trad funders, etc.), robust on-chain TVF, and a significant increase in Ethereum adoption as local economies come onchain. 
+Domain information
+            * Are you proposing a domain for GG24? If so, please elaborate.
+            * Who will be the domain experts?[y] 
+            * Which mechanism(s) will you be pitching to run the domain on? 
+            * Do you foresee the domain including multiple sub rounds?
+Following this sensemaking report, we propose initiating a co-design process with relevant stakeholders to establish Ethereum Localism as a Dedicated Domain within Gitcoin 3.0.
+In alignment with the framework outlined in Credible Neutrality in Dedicated Domain Allocation, both Regen Coordination and OpenCivics intend to serve as founding members of the domain—responsible for bootstrapping governance, seeding peer validation, and clarifying core communities and stewards. From this foundation, we aim to follow a structured path toward progressive decentralization, shifting authority over time from the founding group to a peer-validated network of ecosystem participants. By enabling wider governance participation as it matures, the Ethereum Localism domain can evolve into a self-governing and credibly neutral community-owned coordination layer. 
+Specifically for GG24, Regen Coordination proposes to support 3–5 local funding round pilots, offering tailored guidance while testing evolving tooling and methodologies such as Karma GAP, Prosperity Pass, TVF tracking, DeepGov-based AI evaluation and more. These rounds will serve as structured experiments to gather learnings and progressively protocolize a scalable model to support many more locally-led rounds in 2026 and beyond.
+  
+
+Which mechanism(s) will you be pitching to run the domain on? 
+Continue innovating on AI ImpactQF. Solid evidence of past success: 
+“the depth and rigor of your assessment is honestly remarkable - it’s clear how much effort and care went into providing such detailed, constructive feedback.
+Getting this kind of comprehensive guidance is really helpful to level up our approach. Also, it’s always such a good feeling to receive recognition for the foundation are building, while also getting clear recommendations for improvement.
+The insights provided are already shaping how we’re planning our next steps at @ReFi_PACA to strengthen our role as connector between local PACA initiatives and the broader ReFi ecosystem.”
+AleVerde on Gitcoin Forum
+
+“I got to see the entire process along with evaluation first hand and I must say, you did an incredible job! And thank you for working so closely with our team at Karma GAP to help make it all work.
+Seeing the Common Impact Data Standard come to life inside Karma GAP, and then plugged into an AI + human evaluation loop, is exactly the kind of composable, regenerative infrastructure we’ve all been dreaming about.”
+Mahesh Murthy on Gitcoin Forum 
+________________
+
+
+Notes 
+Two key parts of the DDA:
+            * Research & Development
+            * Local Programs
+Localised Funding Programs - Potential local communities to pilot with:
+            * ReFi Mediterranean
+            * ReFi Barcelona?
+            * Regen Rio
+            * Regenerate Cascadia
+            * ReFi / Celo Colombia?
+            * Kolektivo Curacao?
+Each to create proposals for localised funding initiatives / rounds 
+Meaning Awareness Evaluation of this Draft
+Genuine Impact: Will solving this problem create lasting value for Ethereum users, not just generate attention?
+Your draft strongly demonstrates a focus on genuine, lasting value. The emphasis on embedding Ethereum infrastructure into local economies, supporting real-world use cases, and fostering regenerative local development shows a commitment to outcomes that matter for users’ daily lives—not just speculative or short-term engagement. The use of metrics like Total Value Flowed (TVF), adoption of ReFi tools, and evidence of local government and institutional interest all point to a vision of durable, systemic impact.
+Deep vs. Surface: Does this address root causes or just symptoms that generate buzz?
+The report addresses root causes by targeting the fundamental challenges of mass adoption, capital retention, and ecosystem fragmentation. Rather than focusing on hype cycles or surface-level metrics, it proposes mechanisms (e.g., Prosperity Pass, Karma GAP, regionalized solutions) that tackle the underlying barriers to meaningful, scalable adoption and coordination. The narrative explicitly critiques “speculation-driven” adoption and positions Ethereum Localism as a solution to deeper structural issues.
+Satisfaction Test: Will people be glad we funded this six months later, even if it’s no longer trending?
+The draft articulates clear, measurable outcomes (e.g., new capital inflows, onchain TVF, increased adoption, and sustainable local economies) that would make the Ethereum community proud of the investment, even after the initial buzz fades. The focus on building infrastructure, capacity, and community resilience means the benefits are designed to persist and compound over time, not just during the funding window.
+Past Performance: Have previous Community Rounds shown success and learning?
+You provide strong evidence of past performance, referencing successful rounds (e.g., GG21, GG22, GG23, Regen Rio de Janeiro) and the iterative learning process through retrospectives and feedback loops. The report highlights how these experiences have informed the current approach, demonstrating a track record of delivery, adaptation, and increasing sophistication in impact measurement.
+Secondary Validation
+Fundability: Can we raise $50K+ with identified sponsors?
+The draft provides concrete evidence of fundability, citing over $370,000 raised in previous rounds, a pending $75,000 budget request from CeloPG, and anticipated support from the Ethereum Foundation, B4G, Ma Earth, and others. The “multiply matching” strategy further strengthens the case for sustainable fundraising.
+Unique Value: Can Gitcoin add something unique that existing solutions don’t provide?
+Gitcoin’s unique value is clearly articulated: its legitimacy, network, and infrastructure for community-driven funding, combined with Regen Coordination’s “network of networks” approach, create a platform for scalable, decentralized, and credible impact. The report makes a strong case that Gitcoin is not just another funder, but a key enabler of the ecosystem’s next phase of growth.
+________________
+
+
+Deprioritization of Surface-Level Problems
+Your draft avoids the pitfall of optimizing for visibility or engagement without substance. It consistently returns to the need for authentic, measurable, and community-driven impact, aligning with the “meaning awareness” principle of distinguishing what truly matters from what merely attracts attention.
+________________
+
+
+Summary:
+Your draft is well-aligned with the “meaning awareness” evaluation framework. It addresses root causes, demonstrates a track record of impact, articulates clear and lasting value, and provides a credible path to both fundability and unique contribution. It would score highly on all the primary and secondary criteria for DDA sensemaking report evaluation.
+
+
+[a]I like this framing blurb from the site "Intro" page, and wonder if it might fit in somewhere here:
+
+
+"Unlike many blockchain projects that focus primarily on global, borderless applications, Ethereum Localism emphasizes the importance of place, community, and local context. It recognizes that while the internet and blockchain technology have connected us globally, our daily lives remain deeply rooted in local geographies and communities."
+[b]Suggested update for these two points, moving from "adoption" to "cosmo-local integration":
+
+
+"Infrastructural Integration:
+
+
+Communities and local economies integrate Ethereum-based tools with place-based practices for coordination, governance, and resource stewardship. Rather than introducing speculative or disruptive technologies, digital infrastructure is embedded in ways that enhance transparency, trust, and mutual accountability—creating enduring, context-driven utility rooted in lived relationships. These integrations, documented and shared as open-source blueprints, contribute to a global commons of locally tested infrastructure that others can adapt to their own contexts.
+
+
+Financial Integration:
+
+
+Communities integrate onchain financial tools—including stablecoins, local payment systems, DeFi mechanisms, community grants, and impact credits—into existing formal and informal economic and social systems. This enhances local economic resilience while creating practical onramps for broader participation and capital flows. Each implementation generates open-source blueprints, allowing other communities to replicate and adapt proven models grounded in real-world needs."
+[c]Kind of already mentioned as "resource management" in the "Infrastructural Adoption" point but might be good to more directly say that communities will plug into DeFi and increasingly keep their money onchain for greater TVF.
+
+
+Also agree with Grillo about eco credits. Same thought might apply for mentioning DePin as well.
+[d]kind of, but resource management is broader than just financial resources (eight forms of capital)
+[e]Lucian and Graven In Japan are doing participatory budgeting with quadratic streaming
+[f]oo nice, lets add this in. Could you share any more details / a link that we could add in here?
+[g]https://x.com/lucianodeangeIo/status/1926989481418043699
+
+
+@monty@refidao.com just forwarded you a deck Luciano put together on tg. And sent him a DM saying we should jam about it. I'm biased but would love for Regen Coordination to support, especially since that case study will drive how we set things up in the NYC/Red Hook sqf eventually.
+One total reaction
+Monty Bryant reacted with ♥️ at 2025-07-10 05:33 am
+[h]thanks @mattycompost@gmail.com and yes is a great initiative, would love for Regen Coordination to support!
+[i]also worth mentioning that Regen Coordination is helping fund and providing valuable feedback for the development of the infra?
+[j]see later section
+
+
+"Tooling, Accessibility, and UX: Recognizing that mainstream adoption depends on intuitive, accessible tools, we actively collaborate with infrastructure partners to improve usability, develop multilingual resources, and support local leaders with guides, toolkits, and playbooks."
+[k]Would be cool to have a map combining local nodes, chapters, bloom, etc 
+
+
+Can't really follow the project bcs most stuff is in German but wonder if Utopia Map could potentially do something cool with that data as well.
+[l]Feels like we're missing a bunch of local node pins on the graphic
+[m]/agreed Matty
+[n]Should we mention any concrete legacy world things that we can mold our goals with like UN SDGs
+[o]_Marked as resolved_
+[p]_Re-opened_
+[q]SDGs is one of the strategies to interoperate / communicate with certain traditional funders for sure
+[r]Capitalize?
+[s]Link the partnership agreement doc?
+[t]https://docs.google.com/document/d/18I8XOK8hcaLDG_OQlSC0A0rQJnPEnz4gknGCY543STQ/edit?usp=drivesdk
+[u]One total reaction
+Christy Holland reacted with 👏 at 2025-07-11 12:38 pm
+[v]why not include TEC?
+[w]Exeunt is wondering who this is
+[x]@benjamin@opencivics.co are you able to review this and provide any links to the work?
+[y]Do they need names?

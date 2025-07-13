@@ -67,14 +67,13 @@
             "id": "f00728fe6aac1f8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "ReFi Barcelona/Donate to ReFi BCN.md",
-                "mode": "source",
-                "source": false
+                "file": "ReFi BCN.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Donate to ReFi BCN"
+              "icon": "lucide-table",
+              "title": "ReFi BCN"
             }
           },
           {
@@ -251,6 +250,14 @@
   },
   "active": "f00728fe6aac1f8c",
   "lastOpenFiles": [
+    "250701 ReFi BCN/Ethereum Localism Regen Coordination Report Draft (1).txt",
+    "250701 ReFi BCN/Canvas Social 2166ed0845cb800281c5c242fb974c24.md",
+    "250701 ReFi BCN",
+    "README_IMPROVED_EXAMPLE.md",
+    "QUICK_ACTION_GUIDE.md",
+    "REPOSITORY_ORGANIZATION_REPORT.md",
+    "ReFi Barcelona/Donate to ReFi BCN.md",
+    "ReFi BCN.base",
     "ReFi_BCN_GG24_Visual_Summary.md",
     "ReFi_BCN_GG24_CoopBanks_Alignment.md",
     "ReFi_BCN_GG24_OnePager_EN.md",
@@ -263,7 +270,6 @@
     "Dev_old/Knowledge Base Framework/Contribute to the Knowledge Base.md",
     "mission_statement_refined.md",
     "Bioregional Knowledge Commons/BioFi/BioFi Design Principles.md",
-    "ReFi Barcelona/Donate to ReFi BCN.md",
     "Dev_new/ReFi Barcelona.md",
     "Dev_new/ReFi Barcelona 1dc2e7251f2f816999aafada3b1fab28.md",
     "Bioregional Knowledge Commons/Bioregionalisme a Catalunya/Projects & Organizations/Escola de Pastors i Pastores de Catalunya.md",
@@ -273,11 +279,6 @@
     "Bioregional Knowledge Commons/International Bioregionalism/Gaia Education.md",
     "Bioregional Knowledge Commons/International Bioregionalism/Regenesis Institute.md",
     "Bioregional Knowledge Commons/BioFi/BioFi Glossary.md",
-    "Bioregional Knowledge Commons/Bioregionalisme a Catalunya/Initiatives & Reports/Assemblea Ciutadana pel Clima de Barcelona.md",
-    "Bioregional Knowledge Commons/Bioregionalisme a Catalunya/Initiatives & Reports/Assemblea Ciutadana pel Clima de Catalunya.md",
-    "Bioregional Knowledge Commons/International Bioregionalism/Dark Matter Labs.md",
-    "Bioregional Knowledge Commons/Bioregionalisme a Catalunya/Projects & Organizations/Observatori del Paisatge de Catalunya.md",
-    "Bioregional Knowledge Commons/Bioregionalisme a Catalunya/Projects & Organizations/FEUT.md",
     "Bioregional Knowledge Commons/International Bioregionalism",
     "Images/BioFi Barcelona Event - Project Map(1).jpg",
     "Images/dectec_for_ecosocial.png",
@@ -292,9 +293,7 @@
     "Dev_old/Archive/Input - GPT model",
     "Dev_old/publish.css",
     "Dev_old/old_publish.css",
-    "Dev_old/Knowledge Base Framework",
     "Dev_old/Knowledge Base Development.canvas",
-    "Dev_old/Archive",
     "Dev_old/230825b ReFi BCN Knowledge base.canvas",
     "Images/Gitcoin profile page/New Draft Photo Mar 27 2025.jpeg",
     "Images/Gitcoin profile page/New Draft Luizfernandolfsg 1024.jpg",
