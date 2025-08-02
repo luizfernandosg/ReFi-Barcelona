@@ -11,9 +11,6 @@ ReFi Barcelona Production Theme:
 Navy blue aesthetic with Bodoni Moda typography
 */
 
-/* ===== GOOGLE FONTS IMPORT ===== */
-@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&display=swap');
-
 /* ===== ROOT COLOR VARIABLES ===== */
 :root {
   /* Navy Blue Base Colors */
@@ -110,6 +107,11 @@ body {
   --tertiary: var(--ax3);
   --highlight: var(--hl1);
   --textHighlight: var(--hl2);
+  
+  /* Background colors - ensure navy blue is applied */
+  --background-primary: var(--navy-primary);
+  --background-secondary: var(--navy-secondary);
+  --background-tertiary: var(--navy-tertiary);
   
   /* General styling from publish.css */
   line-height: 1.6;
