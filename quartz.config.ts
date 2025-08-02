@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f9fdf9", // Very light green-tinted white
-          lightgray: "#e8f3e8", // Light green-gray
-          gray: "#a8c8a8", // Medium green-gray
-          darkgray: "#2d5a2d", // Dark forest green
-          dark: "#1a3d1a", // Very dark forest green
-          secondary: "#2d7d32", // Forest green for links
-          tertiary: "#66bb6a", // Vibrant green for accents
-          highlight: "rgba(102, 187, 106, 0.15)", // Light green highlight
-          textHighlight: "#81c78488", // Green text highlight
+          light: "#fafdf9", // Very light green-tinted white (Minimal ReFi)
+          lightgray: "#f0f0f0", // Neutral light gray
+          gray: "#b8b8b8", // Neutral medium gray
+          darkgray: "#4e4e4e", // Neutral dark gray  
+          dark: "#2b2b2b", // Dark text (from Minimal)
+          secondary: "#4a7c59", // ReFi primary green (sophisticated)
+          tertiary: "#6fa76f", // Lighter ReFi green
+          highlight: "rgba(74, 124, 89, 0.15)", // Green selection
+          textHighlight: "rgba(229, 181, 103, 0.5)", // Warm yellow highlight
         },
         darkMode: {
-          light: "#0d1b0d", // Very dark green background
-          lightgray: "#1a3d1a", // Dark green-gray
-          gray: "#4a7c4a", // Medium green
-          darkgray: "#a8c8a8", // Light green-gray for text
-          dark: "#e8f3e8", // Very light green for main text
-          secondary: "#81c784", // Light green for links
-          tertiary: "#66bb6a", // Vibrant green accents
-          highlight: "rgba(129, 199, 132, 0.15)", // Light green highlight
-          textHighlight: "#81c78488", // Green text highlight
+          light: "#161618", // Dark background (from Minimal)
+          lightgray: "#393639", // Dark light gray
+          gray: "#646464", // Medium gray
+          darkgray: "#d4d4d4", // Light gray text
+          dark: "#ebebec", // Light text (from Minimal)
+          secondary: "#6fa76f", // Brighter ReFi green for dark mode
+          tertiary: "#4a7c59", // ReFi primary green
+          highlight: "rgba(111, 167, 111, 0.20)", // Green selection
+          textHighlight: "rgba(255, 177, 80, 0.3)", // Warm amber highlight
         },
       },
     },

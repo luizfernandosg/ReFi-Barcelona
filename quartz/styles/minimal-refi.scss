@@ -1,0 +1,291 @@
+/*
+Minimal ReFi Theme for Quartz
+Based on Minimal Theme by @kepano (Stephan Ango)
+Adapted for ReFi Barcelona with regenerative finance colors
+
+Original Minimal Theme:
+https://github.com/kepano/obsidian-minimal
+MIT License - Copyright (c) 2020-2023 Stephan Ango (@kepano)
+
+ReFi Barcelona Adaptation:
+Incorporates green regenerative finance aesthetic with bioregional values
+*/
+
+/* ===== ROOT COLOR VARIABLES ===== */
+:root {
+  /* Base neutral colors - keeping minimal's sophisticated approach */
+  --base-h: 0;
+  --base-s: 0%;
+  --base-l: 96%;
+  
+  /* ReFi accent - green for regenerative finance */
+  --accent-h: 140;        /* Green hue for regenerative finance */
+  --accent-s: 35%;        /* Moderate saturation for sophistication */
+  --accent-l: 45%;        /* Balanced lightness */
+  
+  /* Regenerative color palette */
+  --color-red: #d04255;       /* For urgency/warnings */
+  --color-orange: #d5763f;    /* For energy/action */  
+  --color-yellow: #e5b567;    /* For attention/highlights */
+  --color-green: #4a7c59;     /* Primary ReFi green */
+  --color-cyan: #5a9b8a;      /* For water/flow */
+  --color-blue: #5a7a9b;      /* For sky/calm */
+  --color-purple: #8a6b9b;    /* For transformation */
+  --color-pink: #b05279;      /* For community/care */
+  
+  /* Bioregional earth tones */
+  --earth-brown: #8b6f47;
+  --forest-green: #2d5a3d;
+  --sky-blue: #6b9dc2;
+  --soil-dark: #4a3b2a;
+}
+
+/* ===== LIGHT MODE COLORS ===== */
+body.theme-light {
+  /* Background layers */
+  --bg1: #fafdf9;           /* Very light green-tinted white */
+  --bg2: hsl(var(--base-h), var(--base-s), var(--base-l));
+  --bg3: hsla(var(--base-h), var(--base-s), calc(var(--base-l) - 50%), 0.12);
+  
+  /* UI element colors */
+  --ui1: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 6%));
+  --ui2: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 12%));
+  --ui3: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 20%));
+  
+  /* Text hierarchy */
+  --tx1: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 90%));     /* Primary text */
+  --tx2: hsl(var(--base-h), calc(var(--base-s) - 20%), calc(var(--base-l) - 45%)); /* Secondary text */
+  --tx3: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) - 25%)); /* Muted text */
+  --tx4: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) - 60%)); /* Code text */
+  
+  /* Accent variations */
+  --ax1: hsl(var(--accent-h), var(--accent-s), var(--accent-l));         /* Primary accent */
+  --ax2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 8%)); /* Darker accent */
+  --ax3: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 6%)); /* Lighter accent */
+  
+  /* Highlights */
+  --hl1: hsla(var(--accent-h), 50%, calc(var(--base-l) - 20%), 30%);   /* Selection highlight */
+  --hl2: hsla(42, 100%, 50%, 0.3);                                     /* Search highlight */
+  --sp1: white;                                                         /* Text on accent */
+}
+
+/* ===== DARK MODE COLORS ===== */
+body.theme-dark {
+  /* Adjusted base for dark mode */
+  --accent-l: 55%;          /* Brighter accent for dark backgrounds */
+  --base-l: 12%;            /* Darker base */
+  
+  /* Background layers */
+  --bg1: hsl(var(--base-h), var(--base-s), var(--base-l));
+  --bg2: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 2%));
+  --bg3: hsla(var(--base-h), var(--base-s), calc(var(--base-l) + 40%), 0.12);
+  
+  /* UI elements */
+  --ui1: hsl(var(--base-h), var(--base-s), calc(var(--base-l) + 6%));
+  --ui2: hsl(var(--base-h), var(--base-s), calc(var(--base-l) + 12%));
+  --ui3: hsl(var(--base-h), var(--base-s), calc(var(--base-l) + 20%));
+  
+  /* Text hierarchy (inverted from light mode) */
+  --tx1: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) + 75%));
+  --tx2: hsl(var(--base-h), calc(var(--base-s) - 20%), calc(var(--base-l) + 50%));
+  --tx3: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) + 25%));
+  --tx4: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) + 60%));
+  
+  /* Accent variations */
+  --ax1: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+  --ax2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 8%));
+  --ax3: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 5%));
+  
+  /* Highlights */
+  --hl1: hsla(var(--accent-h), 50%, 40%, 30%);
+  --hl2: hsla(42, 80%, 60%, 0.3);
+  --sp1: white;
+}
+
+/* ===== QUARTZ VARIABLE MAPPING ===== */
+body {
+  /* Map to Quartz's expected color variables */
+  --light: var(--bg1);
+  --lightgray: var(--ui1);
+  --gray: var(--ui2);
+  --darkgray: var(--tx3);
+  --dark: var(--tx1);
+  --secondary: var(--ax1);
+  --tertiary: var(--ax3);
+  --highlight: var(--hl1);
+  --textHighlight: var(--hl2);
+}
+
+/* ===== TYPOGRAPHY ENHANCEMENTS ===== */
+body {
+  /* Refined typography from Minimal theme */
+  --font-ui-smaller: 11px;
+  --normal-weight: 400;
+  --bold-weight: 600;
+  --line-height: 1.5;
+  
+  /* Heading hierarchy with ReFi green accents */
+  --h1-size: 1.125em;
+  --h2-size: 1.05em;
+  --h3-size: 1em;
+  --h4-size: 0.90em;
+  --h5-size: 0.85em;
+  --h6-size: 0.85em;
+  
+  --h1-weight: 600;
+  --h2-weight: 600;
+  --h3-weight: 500;
+  --h4-weight: 500;
+  --h5-weight: 500;
+  --h6-weight: 400;
+  
+  /* Layout variables */
+  --line-width: 40rem;
+  --max-width: 88%;
+  --border-width: 1px;
+  --image-radius: 4px;
+}
+
+/* ===== COMPONENT STYLING ===== */
+
+/* Links with ReFi green accent */
+a {
+  color: var(--ax1);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--ax2);
+  text-decoration: underline;
+}
+
+/* Headings with subtle green tint */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--tx1);
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  color: var(--ax1);
+}
+
+/* Code blocks with earth-toned background */
+code {
+  background-color: var(--ui1);
+  color: var(--tx4);
+  padding: 0.125em 0.25em;
+  border-radius: 3px;
+}
+
+/* Blockquotes with forest green accent */
+blockquote {
+  border-left: 3px solid var(--ax3);
+  padding-left: var(--nested-padding, 1.1em);
+  color: var(--tx2);
+  font-style: normal;
+}
+
+/* Tables with minimal styling */
+table {
+  border-collapse: collapse;
+  border: var(--border-width) solid var(--ui2);
+}
+
+th, td {
+  padding: 4px 10px;
+  border: var(--border-width) solid var(--ui1);
+}
+
+th {
+  background-color: var(--ui1);
+  font-weight: var(--bold-weight);
+}
+
+/* Navigation and UI elements */
+.nav-item {
+  color: var(--tx2);
+}
+
+.nav-item:hover,
+.nav-item.active {
+  color: var(--ax1);
+  background-color: var(--ui1);
+}
+
+/* Search highlighting */
+mark {
+  background-color: var(--hl2);
+  color: var(--tx1);
+}
+
+/* Interactive elements */
+button {
+  background-color: var(--ax1);
+  color: var(--sp1);
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: var(--normal-weight);
+}
+
+button:hover {
+  background-color: var(--ax2);
+}
+
+/* ReFi-specific enhancements */
+.regenerative {
+  color: var(--color-green);
+}
+
+.bioregional {
+  color: var(--forest-green);
+}
+
+.cooperative {
+  color: var(--color-cyan);
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  :root {
+    --line-width: 100%;
+    --max-width: 95%;
+  }
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Print styles */
+@media print {
+  :root {
+    --bg1: white;
+    --tx1: black;
+    --ax1: #2d5a3d;
+  }
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ui1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ui3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ax3);
+}
