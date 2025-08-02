@@ -1,5 +1,0 @@
----
-Parent item: "[[Barcelona]]"
----
-# Sants
-
