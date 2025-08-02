@@ -1,104 +1,100 @@
 /*
-Minimal ReFi Theme for Quartz
+ReFi Barcelona Theme for Quartz
+Converted from Obsidian Publish production styling
 Based on Minimal Theme by @kepano (Stephan Ango)
-Adapted for ReFi Barcelona with regenerative finance colors
 
 Original Minimal Theme:
 https://github.com/kepano/obsidian-minimal
 MIT License - Copyright (c) 2020-2023 Stephan Ango (@kepano)
 
-ReFi Barcelona Adaptation:
-Incorporates green regenerative finance aesthetic with bioregional values
+ReFi Barcelona Production Theme:
+Navy blue aesthetic with Bodoni Moda typography
 */
+
+/* ===== GOOGLE FONTS IMPORT ===== */
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&display=swap');
 
 /* ===== ROOT COLOR VARIABLES ===== */
 :root {
-  /* Base neutral colors - keeping minimal's sophisticated approach */
-  --base-h: 0;
-  --base-s: 0%;
-  --base-l: 96%;
+  /* Navy Blue Base Colors */
+  --navy-primary: #002147;
+  --navy-secondary: #002147;
+  --navy-tertiary: #002147;
   
-  /* ReFi accent - green for regenerative finance */
-  --accent-h: 140;        /* Green hue for regenerative finance */
-  --accent-s: 35%;        /* Moderate saturation for sophistication */
-  --accent-l: 45%;        /* Balanced lightness */
+  /* Text Colors */
+  --text-normal: #E1E1E6;
+  --text-muted: #a8a8b3;
+  --text-bright: #ffffff;
   
-  /* Regenerative color palette */
-  --color-red: #d04255;       /* For urgency/warnings */
-  --color-orange: #d5763f;    /* For energy/action */  
-  --color-yellow: #e5b567;    /* For attention/highlights */
-  --color-green: #4a7c59;     /* Primary ReFi green */
-  --color-cyan: #5a9b8a;      /* For water/flow */
-  --color-blue: #5a7a9b;      /* For sky/calm */
-  --color-purple: #8a6b9b;    /* For transformation */
-  --color-pink: #b05279;      /* For community/care */
+  /* Interactive Colors */
+  --interactive-normal: #4C9AFF;
+  --interactive-hover: #1A73E8;
   
-  /* Bioregional earth tones */
-  --earth-brown: #8b6f47;
-  --forest-green: #2d5a3d;
-  --sky-blue: #6b9dc2;
-  --soil-dark: #4a3b2a;
+  /* Border Colors */
+  --border-color: rgba(255, 255, 255, 0.15);
+  
+  /* Graph View Colors */
+  --graph-text: #ffffff;
+  --graph-node: #ffffff;
+  --graph-node-focused: #ffffff;
+  --graph-line: #ffffff;
 }
 
 /* ===== LIGHT MODE COLORS ===== */
 body.theme-light {
-  /* Background layers */
-  --bg1: #fafdf9;           /* Very light green-tinted white */
-  --bg2: hsl(var(--base-h), var(--base-s), var(--base-l));
-  --bg3: hsla(var(--base-h), var(--base-s), calc(var(--base-l) - 50%), 0.12);
+  /* Background layers - Navy Blue */
+  --bg1: var(--navy-primary);
+  --bg2: var(--navy-secondary);
+  --bg3: var(--navy-tertiary);
   
   /* UI element colors */
-  --ui1: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 6%));
-  --ui2: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 12%));
-  --ui3: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 20%));
+  --ui1: rgba(255, 255, 255, 0.1);
+  --ui2: rgba(255, 255, 255, 0.15);
+  --ui3: rgba(255, 255, 255, 0.2);
   
   /* Text hierarchy */
-  --tx1: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 90%));     /* Primary text */
-  --tx2: hsl(var(--base-h), calc(var(--base-s) - 20%), calc(var(--base-l) - 45%)); /* Secondary text */
-  --tx3: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) - 25%)); /* Muted text */
-  --tx4: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) - 60%)); /* Code text */
+  --tx1: var(--text-bright);     /* Primary text */
+  --tx2: var(--text-normal);     /* Secondary text */
+  --tx3: var(--text-muted);      /* Muted text */
+  --tx4: var(--text-normal);     /* Code text */
   
-  /* Accent variations */
-  --ax1: hsl(var(--accent-h), var(--accent-s), var(--accent-l));         /* Primary accent */
-  --ax2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 8%)); /* Darker accent */
-  --ax3: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 6%)); /* Lighter accent */
+  /* Accent variations - Blue theme */
+  --ax1: var(--interactive-normal);         /* Primary accent */
+  --ax2: var(--interactive-hover);          /* Hover accent */
+  --ax3: #6ba3ff;                           /* Lighter accent */
   
   /* Highlights */
-  --hl1: hsla(var(--accent-h), 50%, calc(var(--base-l) - 20%), 30%);   /* Selection highlight */
-  --hl2: hsla(42, 100%, 50%, 0.3);                                     /* Search highlight */
-  --sp1: white;                                                         /* Text on accent */
+  --hl1: rgba(76, 154, 255, 0.2);           /* Selection highlight */
+  --hl2: rgba(255, 255, 255, 0.1);          /* Search highlight */
+  --sp1: white;                             /* Text on accent */
 }
 
 /* ===== DARK MODE COLORS ===== */
 body.theme-dark {
-  /* Adjusted base for dark mode */
-  --accent-l: 55%;          /* Brighter accent for dark backgrounds */
-  --base-l: 12%;            /* Darker base */
-  
-  /* Background layers */
-  --bg1: hsl(var(--base-h), var(--base-s), var(--base-l));
-  --bg2: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 2%));
-  --bg3: hsla(var(--base-h), var(--base-s), calc(var(--base-l) + 40%), 0.12);
+  /* Background layers - Same navy blue for consistency */
+  --bg1: var(--navy-primary);
+  --bg2: var(--navy-secondary);
+  --bg3: var(--navy-tertiary);
   
   /* UI elements */
-  --ui1: hsl(var(--base-h), var(--base-s), calc(var(--base-l) + 6%));
-  --ui2: hsl(var(--base-h), var(--base-s), calc(var(--base-l) + 12%));
-  --ui3: hsl(var(--base-h), var(--base-s), calc(var(--base-l) + 20%));
+  --ui1: rgba(255, 255, 255, 0.1);
+  --ui2: rgba(255, 255, 255, 0.15);
+  --ui3: rgba(255, 255, 255, 0.2);
   
-  /* Text hierarchy (inverted from light mode) */
-  --tx1: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) + 75%));
-  --tx2: hsl(var(--base-h), calc(var(--base-s) - 20%), calc(var(--base-l) + 50%));
-  --tx3: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) + 25%));
-  --tx4: hsl(var(--base-h), calc(var(--base-s) - 10%), calc(var(--base-l) + 60%));
+  /* Text hierarchy */
+  --tx1: var(--text-bright);
+  --tx2: var(--text-normal);
+  --tx3: var(--text-muted);
+  --tx4: var(--text-normal);
   
   /* Accent variations */
-  --ax1: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
-  --ax2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 8%));
-  --ax3: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 5%));
+  --ax1: var(--interactive-normal);
+  --ax2: var(--interactive-hover);
+  --ax3: #6ba3ff;
   
   /* Highlights */
-  --hl1: hsla(var(--accent-h), 50%, 40%, 30%);
-  --hl2: hsla(42, 80%, 60%, 0.3);
+  --hl1: rgba(76, 154, 255, 0.2);
+  --hl2: rgba(255, 255, 255, 0.1);
   --sp1: white;
 }
 
@@ -114,30 +110,22 @@ body {
   --tertiary: var(--ax3);
   --highlight: var(--hl1);
   --textHighlight: var(--hl2);
+  
+  /* General styling from publish.css */
+  line-height: 1.6;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-primary);
 }
 
 /* ===== TYPOGRAPHY ENHANCEMENTS ===== */
 body {
-  /* Refined typography from Minimal theme */
+  /* Typography variables */
   --font-ui-smaller: 11px;
   --normal-weight: 400;
   --bold-weight: 600;
-  --line-height: 1.5;
-  
-  /* Heading hierarchy with ReFi green accents */
-  --h1-size: 1.125em;
-  --h2-size: 1.05em;
-  --h3-size: 1em;
-  --h4-size: 0.90em;
-  --h5-size: 0.85em;
-  --h6-size: 0.85em;
-  
-  --h1-weight: 600;
-  --h2-weight: 600;
-  --h3-weight: 500;
-  --h4-weight: 500;
-  --h5-weight: 500;
-  --h6-weight: 400;
+  --line-height: 1.6;
   
   /* Layout variables */
   --line-width: 40rem;
@@ -146,30 +134,59 @@ body {
   --image-radius: 4px;
 }
 
-/* ===== COMPONENT STYLING ===== */
-
-/* Links with ReFi green accent */
-a {
-  color: var(--ax1);
-  text-decoration: none;
-}
-
-a:hover {
-  color: var(--ax2);
-  text-decoration: underline;
-}
-
-/* Headings with subtle green tint */
-h1, h2, h3, h4, h5, h6 {
-  color: var(--tx1);
+/* ===== HEADER STYLES (from publish.css) ===== */
+h1 {
+  color: var(--text-bright);
+  font-family: 'Bodoni Moda', serif;
+  font-style: italic;
+  font-size: 2.5em;
+  font-weight: normal;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
   letter-spacing: -0.02em;
 }
 
-h1 {
-  color: var(--ax1);
+h2 {
+  color: var(--text-normal);
+  font-family: 'Bodoni Moda', serif;
+  font-style: italic;
+  font-size: 2em;
+  font-weight: normal;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+  letter-spacing: -0.02em;
 }
 
-/* Code blocks with earth-toned background */
+h3, h4, h5, h6 {
+  color: var(--text-normal);
+  font-family: 'Bodoni Moda', serif;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: -0.02em;
+}
+
+/* ===== COMPONENT STYLING ===== */
+
+/* Links with blue accent */
+a {
+  color: var(--interactive-normal);
+  text-decoration: none;
+  font-weight: var(--normal-weight);
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--interactive-hover);
+  text-decoration: underline;
+}
+
+/* Paragraphs with spacing */
+p {
+  margin-bottom: 1em;
+  color: var(--text-normal);
+}
+
+/* Code blocks */
 code {
   background-color: var(--ui1);
   color: var(--tx4);
@@ -177,15 +194,15 @@ code {
   border-radius: 3px;
 }
 
-/* Blockquotes with forest green accent */
+/* Blockquotes */
 blockquote {
   border-left: 3px solid var(--ax3);
-  padding-left: var(--nested-padding, 1.1em);
+  padding-left: 1.1em;
   color: var(--tx2);
   font-style: normal;
 }
 
-/* Tables with minimal styling */
+/* Tables */
 table {
   border-collapse: collapse;
   border: var(--border-width) solid var(--ui2);
@@ -194,6 +211,7 @@ table {
 th, td {
   padding: 4px 10px;
   border: var(--border-width) solid var(--ui1);
+  color: var(--text-normal);
 }
 
 th {
@@ -233,28 +251,58 @@ button:hover {
   background-color: var(--ax2);
 }
 
-/* ReFi-specific enhancements */
-.regenerative {
-  color: var(--color-green);
+/* ===== GRAPH VIEW STYLING ===== */
+.graph-view {
+  --graph-text: var(--graph-text);
+  --graph-node: var(--graph-node);
+  --graph-node-focused: var(--graph-node-focused);
+  --graph-line: var(--graph-line);
 }
 
-.bioregional {
-  color: var(--forest-green);
+/* ===== CONTAINER STYLING ===== */
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
 }
 
-.cooperative {
-  color: var(--color-cyan);
+/* ===== TOP BAR LINK STYLING ===== */
+.top-bar-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 10px;
+  background-color: var(--background-secondary);
 }
 
-/* Responsive adjustments */
+.top-bar-link {
+  margin-left: 20px;
+  text-decoration: none;
+  color: var(--text-bright);
+  font-weight: var(--normal-weight);
+}
+
+.top-bar-link:hover {
+  text-decoration: underline;
+}
+
+/* ===== RESPONSIVE ADJUSTMENTS ===== */
 @media (max-width: 600px) {
   :root {
     --line-width: 100%;
     --max-width: 95%;
   }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
 }
 
-/* Accessibility improvements */
+/* ===== ACCESSIBILITY IMPROVEMENTS ===== */
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
@@ -263,16 +311,21 @@ button:hover {
   }
 }
 
-/* Print styles */
+/* ===== PRINT STYLES ===== */
 @media print {
   :root {
     --bg1: white;
     --tx1: black;
-    --ax1: #2d5a3d;
+    --ax1: #002147;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: black;
+    font-style: normal;
   }
 }
 
-/* Custom scrollbar styling */
+/* ===== CUSTOM SCROLLBAR STYLING ===== */
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -288,4 +341,28 @@ button:hover {
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--ax3);
+}
+
+/* ===== SELECTION STYLING ===== */
+::selection {
+  background: var(--hl1);
+  color: var(--tx1);
+}
+
+/* ===== ADDITIONAL WEB-LIKE APPEARANCE ===== */
+body {
+  text-size-adjust: none;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+/* Ensure proper contrast for all text elements */
+p, ul, text, a, tr, td, li, ol, ul, .katex, .math {
+  color: var(--text-normal);
+  fill: var(--text-normal);
+  hyphens: auto;
+}
+
+p, ul, text, a, li, ol, ul, .katex, .math {
+  overflow-wrap: anywhere;
 }
